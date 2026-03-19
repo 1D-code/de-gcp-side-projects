@@ -1,0 +1,343 @@
+ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+10417,66,100.0,2,7516.08,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,95,S10_1678,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+10126,38,100.0,11,7329.06,5/28/2003 0:00,Shipped,2,5,2003,Classic Cars,214,S10_1949,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Large
+10424,50,100.0,6,12001.0,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,214,S10_1949,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+10417,45,100.0,5,5887.35,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,118,S10_2016,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10417,56,100.0,4,9218.16,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,193,S10_4698,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+10197,45,100.0,6,5324.4,11/26/2003 0:00,Shipped,4,11,2003,Classic Cars,136,S10_4757,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium
+10350,26,75.47,5,1962.22,12/2/2004 0:00,Shipped,4,12,2004,Classic Cars,136,S10_4757,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10126,22,100.0,4,3347.74,5/28/2003 0:00,Shipped,2,5,2003,Classic Cars,147,S10_4962,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10203,20,100.0,8,3930.4,12/2/2003 0:00,Shipped,4,12,2003,Classic Cars,194,S12_1099,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10153,20,100.0,11,4904.0,9/28/2003 0:00,Shipped,3,9,2003,Classic Cars,207,S12_1108,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10231,42,100.0,2,8378.58,3/19/2004 0:00,Shipped,1,3,2004,Classic Cars,207,S12_1108,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Large
+10348,48,52.36,8,2513.28,11/1/2004 0:00,Shipped,4,11,2004,Classic Cars,207,S12_1108,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10126,21,100.0,8,2439.57,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,136,S12_1666,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10424,49,100.0,3,7969.36,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,136,S12_1666,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+10417,21,100.0,1,3447.78,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,150,S12_2823,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10104,34,100.0,1,5958.5,1/31/2003 0:00,Shipped,1,1,2003,Classic Cars,151,S12_3148,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10153,42,100.0,12,5393.64,9/28/2003 0:00,Shipped,3,9,2003,Classic Cars,151,S12_3148,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10348,47,100.0,4,4801.52,11/1/2004 0:00,Shipped,4,11,2004,Classic Cars,151,S12_3148,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10358,49,55.34,5,2711.66,12/10/2004 0:00,Shipped,4,12,2004,Classic Cars,151,S12_3148,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10203,20,100.0,6,2254.8,12/2/2003 0:00,Shipped,4,12,2003,Classic Cars,117,S12_3380,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10212,39,100.0,16,4946.76,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,117,S12_3380,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10153,49,100.0,10,7036.89,9/28/2003 0:00,Shipped,3,9,2003,Classic Cars,173,S12_3891,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+10231,49,100.0,1,6952.12,3/19/2004 0:00,Shipped,1,3,2004,Classic Cars,173,S12_3891,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Medium
+10203,44,82.99,9,3651.56,12/2/2003 0:00,Shipped,4,12,2003,Classic Cars,79,S12_3990,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10104,41,100.0,9,4615.78,1/31/2003 0:00,Shipped,1,1,2003,Trucks and Buses,118,S12_4473,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10184,37,100.0,6,4516.22,11/14/2003 0:00,Shipped,4,11,2003,Trucks and Buses,118,S12_4473,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Medium
+10246,46,100.0,5,5069.66,5/5/2004 0:00,Shipped,2,5,2004,Trucks and Buses,118,S12_4473,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10358,42,64.16,9,2694.72,12/10/2004 0:00,Shipped,4,12,2004,Trucks and Buses,118,S12_4473,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10412,54,100.0,5,5951.34,5/3/2005 0:00,Shipped,2,5,2005,Trucks and Buses,118,S12_4473,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10203,47,100.0,5,5195.85,12/2/2003 0:00,Shipped,4,12,2003,Classic Cars,115,S12_4675,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10212,33,100.0,15,4180.44,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,115,S12_4675,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10126,38,100.0,10,3857.0,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,116,S18_1097,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10424,54,100.0,5,7182.0,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,116,S18_1097,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+10212,29,100.0,10,4186.73,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,141,S18_1129,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10205,36,100.0,2,3735.72,12/3/2003 0:00,Shipped,4,12,2003,Vintage Cars,102,S18_1342,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10244,40,100.0,7,4684.8,4/29/2004 0:00,Shipped,2,4,2004,Vintage Cars,102,S18_1342,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10380,27,93.16,13,2515.32,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,102,S18_1342,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10126,42,54.99,17,2309.58,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,53,S18_1367,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10205,48,63.61,1,3053.28,12/3/2003 0:00,Shipped,4,12,2003,Vintage Cars,53,S18_1367,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10244,20,58.22,6,1164.4,4/29/2004 0:00,Shipped,2,4,2004,Vintage Cars,53,S18_1367,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10212,38,100.0,6,4492.36,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,124,S18_1589,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10311,29,100.0,9,2923.2,10/16/2004 0:00,Shipped,4,10,2004,Classic Cars,124,S18_1589,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10378,34,42.64,5,1449.76,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,124,S18_1589,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10262,49,100.0,9,6567.96,6/24/2004 0:00,Cancelled,2,6,2004,Planes,157,S18_1662,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10386,25,54.57,7,1364.25,3/1/2005 0:00,Resolved,1,3,2005,Planes,157,S18_1662,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10214,30,100.0,7,5967.0,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,170,S18_1749,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10379,39,100.0,2,5399.55,2/10/2005 0:00,Shipped,1,2,2005,Vintage Cars,170,S18_1749,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10203,45,85.47,4,3846.15,12/2/2003 0:00,Shipped,4,12,2003,Classic Cars,77,S18_1889,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10212,20,66.99,14,1339.8,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,77,S18_1889,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10212,41,100.0,9,4840.87,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,142,S18_1984,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10104,24,100.0,8,3457.92,1/31/2003 0:00,Shipped,1,1,2003,Classic Cars,163,S18_2238,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10184,46,100.0,5,7381.16,11/14/2003 0:00,Shipped,4,11,2003,Classic Cars,163,S18_2238,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Large
+10246,40,100.0,4,6549.2,5/5/2004 0:00,Shipped,2,5,2004,Classic Cars,163,S18_2238,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10358,20,100.0,10,2428.0,12/10/2004 0:00,Shipped,4,12,2004,Classic Cars,163,S18_2238,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10412,41,100.0,4,6712.93,5/3/2005 0:00,Shipped,2,5,2005,Classic Cars,163,S18_2238,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10214,21,62.96,6,1322.16,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,60,S18_2248,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10303,46,49.04,2,2255.84,10/6/2004 0:00,Shipped,4,10,2004,Vintage Cars,60,S18_2248,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Small
+10379,27,49.3,1,1331.1,2/10/2005 0:00,Shipped,1,2,2005,Vintage Cars,60,S18_2248,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10104,29,100.0,12,3772.61,1/31/2003 0:00,Shipped,1,1,2003,Trucks and Buses,122,S18_2319,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10184,46,100.0,9,5984.14,11/14/2003 0:00,Shipped,4,11,2003,Trucks and Buses,122,S18_2319,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Medium
+10246,22,98.18,8,2159.96,5/5/2004 0:00,Shipped,2,5,2004,Trucks and Buses,122,S18_2319,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10358,20,36.42,11,728.4,12/10/2004 0:00,Shipped,4,12,2004,Trucks and Buses,122,S18_2319,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10383,27,100.0,11,3843.99,2/22/2005 0:00,Shipped,1,2,2005,Trucks and Buses,122,S18_2319,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10412,56,98.18,8,5498.08,5/3/2005 0:00,Shipped,2,5,2005,Trucks and Buses,122,S18_2319,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10214,27,100.0,4,3604.23,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,127,S18_2325,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10380,40,100.0,10,4931.6,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,127,S18_2325,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10126,43,65.02,2,2795.86,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,60,S18_2432,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10184,44,60.16,12,2647.04,11/14/2003 0:00,Shipped,4,11,2003,Trucks and Buses,60,S18_2432,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Small
+10246,30,61.99,11,1859.7,5/5/2004 0:00,Shipped,2,5,2004,Trucks and Buses,60,S18_2432,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10412,47,61.99,11,2913.53,5/3/2005 0:00,Shipped,2,5,2005,Trucks and Buses,60,S18_2432,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10133,49,69.27,3,3394.23,6/27/2003 0:00,Shipped,2,6,2003,Planes,84,S18_2581,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10386,21,74.77,18,1570.17,3/1/2005 0:00,Resolved,1,3,2005,Planes,84,S18_2581,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10417,36,61.18,6,2202.48,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,60,S18_2625,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10205,40,100.0,3,7492.4,12/3/2003 0:00,Shipped,4,12,2003,Vintage Cars,168,S18_2795,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+10214,50,100.0,1,9534.5,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,168,S18_2795,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Large
+10244,43,100.0,8,5950.34,4/29/2004 0:00,Shipped,2,4,2004,Vintage Cars,168,S18_2795,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10380,21,47.18,8,990.78,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,168,S18_2795,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10212,40,100.0,7,4910.4,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,132,S18_2870,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10311,43,100.0,10,5278.68,10/16/2004 0:00,Shipped,4,10,2004,Classic Cars,132,S18_2870,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10379,29,100.0,5,5127.2,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,132,S18_2870,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10126,31,90.17,12,2795.27,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,101,S18_2949,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10244,30,100.0,1,3525.6,4/29/2004 0:00,Shipped,2,4,2004,Vintage Cars,101,S18_2949,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10126,46,73.7,14,3390.2,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,62,S18_2957,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10244,24,58.09,3,1394.16,4/29/2004 0:00,Shipped,2,4,2004,Vintage Cars,62,S18_2957,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10197,46,87.74,4,4036.04,11/26/2003 0:00,Shipped,4,11,2003,Ships,86,S18_3029,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium
+10262,32,84.3,15,2697.6,6/24/2004 0:00,Cancelled,2,6,2004,Ships,86,S18_3029,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10350,43,64.97,6,2793.71,12/2/2004 0:00,Shipped,4,12,2004,Ships,86,S18_3029,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10386,37,93.01,5,3441.37,3/1/2005 0:00,Resolved,1,3,2005,Ships,86,S18_3029,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10126,30,97.39,13,2921.7,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,104,S18_3136,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10244,29,100.0,2,3340.51,4/29/2004 0:00,Shipped,2,4,2004,Vintage Cars,104,S18_3136,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10128,41,100.0,2,5544.02,6/6/2003 0:00,Shipped,2,6,2003,Vintage Cars,136,S18_3140,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10153,31,100.0,7,3641.57,9/28/2003 0:00,Shipped,3,9,2003,Vintage Cars,136,S18_3140,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10177,23,100.0,9,3675.63,11/7/2003 0:00,Shipped,4,11,2003,Vintage Cars,136,S18_3140,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Medium
+10350,44,100.0,1,5191.12,12/2/2004 0:00,Shipped,4,12,2004,Vintage Cars,136,S18_3140,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10383,24,61.52,9,1476.48,2/22/2005 0:00,Shipped,1,2,2005,Vintage Cars,136,S18_3140,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10104,23,100.0,13,4556.99,1/31/2003 0:00,Shipped,1,1,2003,Classic Cars,169,S18_3232,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10184,28,100.0,10,4409.72,11/14/2003 0:00,Shipped,4,11,2003,Classic Cars,169,S18_3232,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Medium
+10203,48,100.0,1,8291.04,12/2/2003 0:00,Shipped,4,12,2003,Classic Cars,169,S18_3232,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+10212,40,100.0,11,5554.4,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,169,S18_3232,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10246,36,100.0,9,7132.68,5/5/2004 0:00,Shipped,2,5,2004,Classic Cars,169,S18_3232,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+10358,32,93.49,12,2991.68,12/10/2004 0:00,Shipped,4,12,2004,Classic Cars,169,S18_3232,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10383,47,100.0,6,6869.05,2/22/2005 0:00,Shipped,1,2,2005,Classic Cars,169,S18_3232,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10394,22,100.0,5,3353.02,3/15/2005 0:00,Shipped,1,3,2005,Classic Cars,169,S18_3232,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10412,60,100.0,9,11887.8,5/3/2005 0:00,Shipped,2,5,2005,Classic Cars,169,S18_3232,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+10128,41,100.0,4,4837.18,6/6/2003 0:00,Shipped,2,6,2003,Trains,100,S18_3259,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10153,29,88.74,9,2573.46,9/28/2003 0:00,Shipped,3,9,2003,Trains,100,S18_3259,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10177,29,100.0,11,3070.52,11/7/2003 0:00,Shipped,4,11,2003,Trains,100,S18_3259,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Medium
+10350,41,93.04,2,3814.64,12/2/2004 0:00,Shipped,4,12,2004,Trains,100,S18_3259,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10383,26,100.0,12,3340.48,2/22/2005 0:00,Shipped,1,2,2005,Trains,100,S18_3259,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10203,33,86.04,11,2839.32,12/2/2003 0:00,Shipped,4,12,2003,Classic Cars,80,S18_3278,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10378,22,100.0,4,2464.0,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,80,S18_3278,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10126,38,82.34,16,3128.92,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,99,S18_3320,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10244,36,84.33,5,3035.88,4/29/2004 0:00,Shipped,2,4,2004,Vintage Cars,99,S18_3320,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10203,32,100.0,10,5127.04,12/2/2003 0:00,Shipped,4,12,2003,Classic Cars,146,S18_3482,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10355,23,100.0,7,3177.91,12/7/2004 0:00,Shipped,4,12,2004,Classic Cars,146,S18_3482,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10378,43,96.49,10,4149.07,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,146,S18_3482,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10212,45,100.0,8,6357.6,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,141,S18_3685,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10311,32,100.0,11,3616.64,10/16/2004 0:00,Shipped,4,10,2004,Classic Cars,141,S18_3685,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10379,32,70.83,4,2266.56,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,141,S18_3685,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10355,31,53.47,1,1657.57,12/7/2004 0:00,Shipped,4,12,2004,Motorcycles,62,S18_3782,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10378,28,100.0,9,4609.64,2/10/2005 0:00,Shipped,1,2,2005,Motorcycles,62,S18_3782,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10197,22,100.0,3,2538.8,11/26/2003 0:00,Shipped,4,11,2003,Vintage Cars,105,S18_3856,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Small
+10262,34,100.0,14,4103.46,6/24/2004 0:00,Cancelled,2,6,2004,Vintage Cars,105,S18_3856,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10386,22,57.55,6,1266.1,3/1/2005 0:00,Resolved,1,3,2005,Vintage Cars,105,S18_3856,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10104,38,100.0,3,5348.5,1/31/2003 0:00,Shipped,1,1,2003,Classic Cars,143,S18_4027,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10358,25,100.0,13,2528.25,12/10/2004 0:00,Shipped,4,12,2004,Classic Cars,143,S18_4027,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10383,38,100.0,1,5340.9,2/22/2005 0:00,Shipped,1,2,2005,Classic Cars,143,S18_4027,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10394,37,100.0,1,6376.58,3/15/2005 0:00,Shipped,1,3,2005,Classic Cars,143,S18_4027,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10311,41,81.91,1,3358.31,10/16/2004 0:00,Shipped,4,10,2004,Vintage Cars,92,S18_4409,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10380,32,100.0,1,3376.64,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,92,S18_4409,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10128,43,92.16,1,3962.88,6/6/2003 0:00,Shipped,2,6,2003,Vintage Cars,87,S18_4522,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10153,22,83.38,6,1834.36,9/28/2003 0:00,Shipped,3,9,2003,Vintage Cars,87,S18_4522,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10177,35,74.6,8,2611.0,11/7/2003 0:00,Shipped,4,11,2003,Vintage Cars,87,S18_4522,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Small
+10197,50,100.0,14,5090.5,11/26/2003 0:00,Shipped,4,11,2003,Vintage Cars,87,S18_4522,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium
+10350,30,100.0,3,3023.1,12/2/2004 0:00,Shipped,4,12,2004,Vintage Cars,87,S18_4522,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10383,28,58.58,7,1640.24,2/22/2005 0:00,Shipped,1,2,2005,Vintage Cars,87,S18_4522,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10126,50,100.0,5,7083.0,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,121,S18_4600,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Large
+10126,43,53.83,9,2314.69,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,50,S18_4668,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10348,29,100.0,6,7110.8,11/1/2004 0:00,Shipped,4,11,2004,Vintage Cars,50,S18_4668,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Large
+10358,30,100.0,8,5302.8,12/10/2004 0:00,Shipped,4,12,2004,Vintage Cars,50,S18_4668,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10424,26,59.87,4,1556.62,5/31/2005 0:00,In Process,2,5,2005,Vintage Cars,50,S18_4668,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10355,25,100.0,2,4203.5,12/7/2004 0:00,Shipped,4,12,2004,Classic Cars,148,S18_4721,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10378,49,67.14,8,3289.86,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,148,S18_4721,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10279,26,60.58,1,1575.08,8/9/2004 0:00,Shipped,3,8,2004,Classic Cars,71,S18_4933,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10311,25,66.99,2,1674.75,10/16/2004 0:00,Shipped,4,10,2004,Classic Cars,71,S18_4933,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10380,24,100.0,2,4536.0,2/16/2005 0:00,Shipped,1,2,2005,Classic Cars,71,S18_4933,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10212,41,82.31,3,3374.71,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,73,S24_1046,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10279,32,74.96,5,2398.72,8/9/2004 0:00,Shipped,3,8,2004,Classic Cars,73,S24_1046,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10311,26,87.45,6,2273.7,10/16/2004 0:00,Shipped,4,10,2004,Classic Cars,73,S24_1046,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10380,34,100.0,3,3441.82,2/16/2005 0:00,Shipped,1,2,2005,Classic Cars,73,S24_1046,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10104,35,55.49,6,1942.15,1/31/2003 0:00,Shipped,1,1,2003,Classic Cars,57,S24_1444,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10184,31,60.11,3,1863.41,11/14/2003 0:00,Shipped,4,11,2003,Classic Cars,57,S24_1444,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Small
+10246,44,52.6,2,2314.4,5/5/2004 0:00,Shipped,2,5,2004,Classic Cars,57,S24_1444,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10358,44,60.76,14,2673.44,12/10/2004 0:00,Shipped,4,12,2004,Classic Cars,57,S24_1444,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10383,22,91.76,2,2018.72,2/22/2005 0:00,Shipped,1,2,2005,Classic Cars,57,S24_1444,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10394,31,50.29,2,1558.99,3/15/2005 0:00,Shipped,1,3,2005,Classic Cars,57,S24_1444,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10412,21,52.6,2,1104.6,5/3/2005 0:00,Shipped,2,5,2005,Classic Cars,57,S24_1444,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10417,35,100.0,3,3550.05,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,112,S24_1578,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10212,45,53.33,5,2399.85,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,50,S24_1628,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10311,45,49.3,8,2218.5,10/16/2004 0:00,Shipped,4,10,2004,Classic Cars,50,S24_1628,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10379,32,100.0,3,3970.56,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,50,S24_1628,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10133,41,94.1,5,3858.1,6/27/2003 0:00,Shipped,2,6,2003,Planes,109,S24_1785,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10262,34,97.38,1,3310.92,6/24/2004 0:00,Cancelled,2,6,2004,Planes,109,S24_1785,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10386,33,41.71,11,1376.43,3/1/2005 0:00,Resolved,1,3,2005,Planes,109,S24_1785,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10205,32,37.17,5,1189.44,12/3/2003 0:00,Shipped,4,12,2003,Vintage Cars,33,S24_1937,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10214,20,34.19,3,683.8,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,33,S24_1937,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10380,32,70.56,4,2257.92,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,33,S24_1937,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10340,55,79.98,8,4398.9,11/24/2004 0:00,Shipped,4,11,2004,Motorcycles,76,S24_2000,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium
+10153,40,100.0,5,5456.4,9/28/2003 0:00,Shipped,3,9,2003,Ships,122,S24_2011,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10177,50,100.0,7,6083.0,11/7/2003 0:00,Shipped,4,11,2003,Ships,122,S24_2011,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Medium
+10197,41,100.0,13,4534.6,11/26/2003 0:00,Shipped,4,11,2003,Ships,122,S24_2011,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium
+10350,34,50.33,7,1711.22,12/2/2004 0:00,Shipped,4,12,2004,Ships,122,S24_2011,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10205,24,38.08,4,913.92,12/3/2003 0:00,Shipped,4,12,2003,Vintage Cars,44,S24_2022,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10214,49,47.94,2,2349.06,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,44,S24_2022,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10244,39,45.25,9,1764.75,4/29/2004 0:00,Shipped,2,4,2004,Vintage Cars,44,S24_2022,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10380,27,68.35,5,1845.45,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,44,S24_2022,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10126,27,100.0,1,3415.77,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,127,S24_2300,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10184,24,100.0,11,3496.32,11/14/2003 0:00,Shipped,4,11,2003,Trucks and Buses,127,S24_2300,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Medium
+10246,29,100.0,10,3520.6,5/5/2004 0:00,Shipped,2,5,2004,Trucks and Buses,127,S24_2300,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10348,37,100.0,1,5981.42,11/1/2004 0:00,Shipped,4,11,2004,Trucks and Buses,127,S24_2300,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10358,41,100.0,7,5684.65,12/10/2004 0:00,Shipped,4,12,2004,Trucks and Buses,127,S24_2300,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10412,70,100.0,10,8498.0,5/3/2005 0:00,Shipped,2,5,2005,Trucks and Buses,127,S24_2300,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+10190,42,76.19,3,3199.98,11/19/2003 0:00,Shipped,4,11,2003,Motorcycles,69,S24_2360,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10355,41,70.65,3,2896.65,12/7/2004 0:00,Shipped,4,12,2004,Motorcycles,69,S24_2360,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10212,45,88.14,1,3966.3,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,90,S24_2766,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10279,49,79.97,3,3918.53,8/9/2004 0:00,Shipped,3,8,2004,Classic Cars,90,S24_2766,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10311,28,93.6,4,2620.8,10/16/2004 0:00,Shipped,4,10,2004,Classic Cars,90,S24_2766,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10380,36,37.5,6,1350.0,2/16/2005 0:00,Shipped,1,2,2005,Classic Cars,90,S24_2766,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10104,44,39.6,10,1742.4,1/31/2003 0:00,Shipped,1,1,2003,Classic Cars,35,S24_2840,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10184,42,31.82,7,1336.44,11/14/2003 0:00,Shipped,4,11,2003,Classic Cars,35,S24_2840,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Small
+10246,49,36.07,6,1767.43,5/5/2004 0:00,Shipped,2,5,2004,Classic Cars,35,S24_2840,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10358,36,82.94,4,2985.84,12/10/2004 0:00,Shipped,4,12,2004,Classic Cars,35,S24_2840,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10383,40,100.0,3,6089.6,2/22/2005 0:00,Shipped,1,2,2005,Classic Cars,35,S24_2840,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10394,46,38.9,6,1789.4,3/15/2005 0:00,Shipped,1,3,2005,Classic Cars,35,S24_2840,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10412,30,36.07,6,1082.1,5/3/2005 0:00,Shipped,2,5,2005,Classic Cars,35,S24_2840,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10262,24,67.14,10,1611.36,6/24/2004 0:00,Cancelled,2,6,2004,Planes,68,S24_2841,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10386,39,55.96,1,2182.44,3/1/2005 0:00,Resolved,1,3,2005,Planes,68,S24_2841,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10279,48,100.0,2,5580.96,8/9/2004 0:00,Shipped,3,8,2004,Classic Cars,117,S24_2887,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10311,43,100.0,3,4595.41,10/16/2004 0:00,Shipped,4,10,2004,Classic Cars,117,S24_2887,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10380,44,36.29,7,1596.76,2/16/2005 0:00,Shipped,1,2,2005,Classic Cars,117,S24_2887,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10203,21,37.0,2,777.0,12/2/2003 0:00,Shipped,4,12,2003,Classic Cars,37,S24_2972,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10212,34,43.42,12,1476.28,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,37,S24_2972,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10355,36,38.52,4,1386.72,12/7/2004 0:00,Shipped,4,12,2004,Classic Cars,37,S24_2972,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10378,41,100.0,7,5856.85,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,37,S24_2972,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10177,45,72.58,2,3266.1,11/7/2003 0:00,Shipped,4,11,2003,Vintage Cars,88,S24_3151,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Medium
+10197,47,83.2,8,3910.4,11/26/2003 0:00,Shipped,4,11,2003,Vintage Cars,88,S24_3151,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium
+10350,30,100.0,9,3021.0,12/2/2004 0:00,Shipped,4,12,2004,Vintage Cars,88,S24_3151,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10212,27,79.62,2,2149.74,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,85,S24_3191,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10279,33,71.06,4,2344.98,8/9/2004 0:00,Shipped,3,8,2004,Classic Cars,85,S24_3191,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10311,25,83.04,5,2076.0,10/16/2004 0:00,Shipped,4,10,2004,Classic Cars,85,S24_3191,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10380,44,79.06,9,3478.64,2/16/2005 0:00,Shipped,1,2,2005,Classic Cars,85,S24_3191,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10203,34,64.9,7,2206.6,12/2/2003 0:00,Shipped,4,12,2003,Classic Cars,61,S24_3371,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10355,44,62.45,6,2747.8,12/7/2004 0:00,Shipped,4,12,2004,Classic Cars,61,S24_3371,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10378,46,41.54,6,1910.84,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,61,S24_3371,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10262,46,70.35,11,3236.1,6/24/2004 0:00,Cancelled,2,6,2004,Vintage Cars,65,S24_3420,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10386,35,63.76,9,2231.6,3/1/2005 0:00,Resolved,1,3,2005,Vintage Cars,65,S24_3420,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10212,46,87.81,4,4039.26,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,107,S24_3432,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10279,48,100.0,6,6168.0,8/9/2004 0:00,Shipped,3,8,2004,Classic Cars,107,S24_3432,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10311,46,92.09,7,4236.14,10/16/2004 0:00,Shipped,4,10,2004,Classic Cars,107,S24_3432,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10380,34,100.0,11,3953.18,2/16/2005 0:00,Shipped,1,2,2005,Classic Cars,107,S24_3432,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10197,22,86.38,5,1900.36,11/26/2003 0:00,Shipped,4,11,2003,Vintage Cars,83,S24_3816,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Small
+10262,49,87.21,16,4273.29,6/24/2004 0:00,Cancelled,2,6,2004,Vintage Cars,83,S24_3816,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10350,25,60.34,10,1508.5,12/2/2004 0:00,Shipped,4,12,2004,Vintage Cars,83,S24_3816,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10203,47,100.0,3,6996.42,12/2/2003 0:00,Shipped,4,12,2003,Classic Cars,140,S24_3856,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10212,49,100.0,13,6949.67,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,140,S24_3856,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10355,32,100.0,8,5302.72,12/7/2004 0:00,Shipped,4,12,2004,Classic Cars,140,S24_3856,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10378,33,53.27,3,1757.91,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,140,S24_3856,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10262,48,61.42,8,2948.16,6/24/2004 0:00,Cancelled,2,6,2004,Planes,68,S24_3949,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10386,41,73.32,12,3006.12,3/1/2005 0:00,Resolved,1,3,2005,Planes,68,S24_3949,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10214,44,34.88,5,1534.72,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,41,S24_3969,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10303,24,40.21,1,965.04,10/6/2004 0:00,Shipped,4,10,2004,Vintage Cars,41,S24_3969,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Small
+10380,43,95.03,12,4086.29,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,41,S24_3969,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10104,26,100.0,5,2921.62,1/31/2003 0:00,Shipped,1,1,2003,Classic Cars,118,S24_4048,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10184,49,100.0,2,5795.72,11/14/2003 0:00,Shipped,4,11,2003,Classic Cars,118,S24_4048,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Medium
+10246,46,100.0,1,6311.2,5/5/2004 0:00,Shipped,2,5,2004,Classic Cars,118,S24_4048,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10383,21,93.91,4,1972.11,2/22/2005 0:00,Shipped,1,2,2005,Classic Cars,118,S24_4048,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10394,37,100.0,7,5207.75,3/15/2005 0:00,Shipped,1,3,2005,Classic Cars,118,S24_4048,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10412,31,100.0,1,4253.2,5/3/2005 0:00,Shipped,2,5,2005,Classic Cars,118,S24_4048,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10126,34,100.0,15,3576.12,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,97,S24_4258,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10244,40,86.68,4,3467.2,4/29/2004 0:00,Shipped,2,4,2004,Vintage Cars,97,S24_4258,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10348,39,50.31,2,1962.09,11/1/2004 0:00,Shipped,4,11,2004,Vintage Cars,97,S24_4258,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10358,41,100.0,6,6847.0,12/10/2004 0:00,Shipped,4,12,2004,Vintage Cars,97,S24_4258,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10133,46,77.52,4,3565.92,6/27/2003 0:00,Shipped,2,6,2003,Planes,72,S24_4278,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10340,40,84.77,1,3390.8,11/24/2004 0:00,Shipped,4,11,2004,Planes,72,S24_4278,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium
+10386,50,63.34,8,3167.0,3/1/2005 0:00,Resolved,1,3,2005,Planes,72,S24_4278,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10355,28,95.39,9,2670.92,12/7/2004 0:00,Shipped,4,12,2004,Classic Cars,80,S24_4620,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10378,41,100.0,2,4894.17,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,80,S24_4620,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10126,43,96.31,3,4141.33,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,96,S32_1268,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10184,46,100.0,13,4607.36,11/14/2003 0:00,Shipped,4,11,2003,Trucks and Buses,96,S32_1268,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Medium
+10348,42,100.0,3,6386.94,11/1/2004 0:00,Shipped,4,11,2004,Trucks and Buses,96,S32_1268,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10358,41,100.0,1,4428.0,12/10/2004 0:00,Shipped,4,12,2004,Trucks and Buses,96,S32_1268,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10133,23,100.0,1,2642.01,6/27/2003 0:00,Shipped,2,6,2003,Motorcycles,99,S32_1374,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10340,55,100.0,2,6482.85,11/24/2004 0:00,Shipped,4,11,2004,Motorcycles,99,S32_1374,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium
+10190,46,32.99,1,1517.54,11/19/2003 0:00,Shipped,4,11,2003,Motorcycles,40,S32_2206,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10355,38,39.83,10,1513.54,12/7/2004 0:00,Shipped,4,12,2004,Motorcycles,40,S32_2206,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10378,40,82.46,1,3298.4,2/10/2005 0:00,Shipped,1,2,2005,Motorcycles,40,S32_2206,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10104,35,47.62,11,1666.7,1/31/2003 0:00,Shipped,1,1,2003,Trucks and Buses,54,S32_2509,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10184,33,62.77,8,2071.41,11/14/2003 0:00,Shipped,4,11,2003,Trucks and Buses,54,S32_2509,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Small
+10246,35,48.7,7,1704.5,5/5/2004 0:00,Shipped,2,5,2004,Trucks and Buses,54,S32_2509,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10383,32,53.18,5,1701.76,2/22/2005 0:00,Shipped,1,2,2005,Trucks and Buses,54,S32_2509,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10394,36,62.77,3,2259.72,3/15/2005 0:00,Shipped,1,3,2005,Trucks and Buses,54,S32_2509,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10412,19,48.7,7,925.3,5/3/2005 0:00,Shipped,2,5,2005,Trucks and Buses,54,S32_2509,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10104,49,65.87,4,3227.63,1/31/2003 0:00,Shipped,1,1,2003,Trains,62,S32_3207,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10184,48,50.95,1,2445.6,11/14/2003 0:00,Shipped,4,11,2003,Trains,62,S32_3207,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Small
+10350,27,100.0,14,4406.4,12/2/2004 0:00,Shipped,4,12,2004,Trains,62,S32_3207,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10383,44,36.07,8,1587.08,2/22/2005 0:00,Shipped,1,2,2005,Trains,62,S32_3207,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10394,30,60.28,4,1808.4,3/15/2005 0:00,Shipped,1,3,2005,Trains,62,S32_3207,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10126,26,62.7,7,1630.2,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,64,S32_3522,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10348,31,100.0,5,3139.99,11/1/2004 0:00,Shipped,4,11,2004,Trucks and Buses,64,S32_3522,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10358,36,100.0,2,5669.64,12/10/2004 0:00,Shipped,4,12,2004,Trucks and Buses,64,S32_3522,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10424,44,61.41,2,2702.04,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,64,S32_3522,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10133,49,57.1,6,2797.9,6/27/2003 0:00,Shipped,2,6,2003,Vintage Cars,68,S32_4289,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10262,40,79.11,2,3164.4,6/24/2004 0:00,Cancelled,2,6,2004,Vintage Cars,68,S32_4289,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10340,39,59.16,3,2307.24,11/24/2004 0:00,Shipped,4,11,2004,Vintage Cars,68,S32_4289,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Small
+10190,42,85.72,4,3600.24,11/19/2003 0:00,Shipped,4,11,2003,Motorcycles,102,S32_4485,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10355,40,100.0,5,4326.8,12/7/2004 0:00,Shipped,4,12,2004,Motorcycles,102,S32_4485,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10133,27,50.19,7,1355.13,6/27/2003 0:00,Shipped,2,6,2003,Vintage Cars,43,S50_1341,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10156,20,41.02,1,820.4,10/8/2003 0:00,Shipped,4,10,2003,Vintage Cars,43,S50_1341,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10262,49,37.97,3,1860.53,6/24/2004 0:00,Cancelled,2,6,2004,Vintage Cars,43,S50_1341,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10340,40,50.62,4,2024.8,11/24/2004 0:00,Shipped,4,11,2004,Vintage Cars,43,S50_1341,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Small
+10104,33,100.0,7,3705.24,1/31/2003 0:00,Shipped,1,1,2003,Trucks and Buses,115,S50_1392,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10184,45,100.0,4,4948.2,11/14/2003 0:00,Shipped,4,11,2003,Trucks and Buses,115,S50_1392,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Medium
+10246,22,100.0,3,2928.42,5/5/2004 0:00,Shipped,2,5,2004,Trucks and Buses,115,S50_1392,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10350,31,71.4,8,2213.4,12/2/2004 0:00,Shipped,4,12,2004,Trucks and Buses,115,S50_1392,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10383,29,100.0,13,3087.05,2/22/2005 0:00,Shipped,1,2,2005,Trucks and Buses,115,S50_1392,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10412,26,100.0,3,3460.86,5/3/2005 0:00,Shipped,2,5,2005,Trucks and Buses,115,S50_1392,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10104,32,53.31,2,1705.92,1/31/2003 0:00,Shipped,1,1,2003,Trains,58,S50_1514,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10153,31,57.41,13,1779.71,9/28/2003 0:00,Shipped,3,9,2003,Trains,58,S50_1514,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10350,44,100.0,17,6490.88,12/2/2004 0:00,Shipped,4,12,2004,Trains,58,S50_1514,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10383,38,60.06,10,2282.28,2/22/2005 0:00,Shipped,1,2,2005,Trains,58,S50_1514,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10190,40,66.72,2,2668.8,11/19/2003 0:00,Shipped,4,11,2003,Motorcycles,81,S50_4713,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10153,43,64.67,1,2780.81,9/28/2003 0:00,Shipped,3,9,2003,Ships,66,S700_1138,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10177,24,76.0,3,1824.0,11/7/2003 0:00,Shipped,4,11,2003,Ships,66,S700_1138,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Small
+10197,23,64.67,9,1487.41,11/26/2003 0:00,Shipped,4,11,2003,Ships,66,S700_1138,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Small
+10350,46,76.67,11,3526.82,12/2/2004 0:00,Shipped,4,12,2004,Ships,66,S700_1138,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10133,24,77.64,8,1863.36,6/27/2003 0:00,Shipped,2,6,2003,Planes,91,S700_1691,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10156,48,100.0,2,4954.08,10/8/2003 0:00,Shipped,4,10,2003,Planes,91,S700_1691,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10262,40,84.03,4,3361.2,6/24/2004 0:00,Cancelled,2,6,2004,Planes,91,S700_1691,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10340,30,88.6,5,2658.0,11/24/2004 0:00,Shipped,4,11,2004,Planes,91,S700_1691,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Small
+10128,32,97.0,3,3104.0,6/6/2003 0:00,Shipped,2,6,2003,Ships,86,S700_1938,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10153,31,87.48,8,2711.88,9/28/2003 0:00,Shipped,3,9,2003,Ships,86,S700_1938,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10177,31,88.34,10,2738.54,11/7/2003 0:00,Shipped,4,11,2003,Ships,86,S700_1938,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Small
+10350,28,100.0,4,2924.32,12/2/2004 0:00,Shipped,4,12,2004,Ships,86,S700_1938,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10197,24,90.52,2,2172.48,11/26/2003 0:00,Shipped,4,11,2003,Ships,90,S700_2047,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Small
+10262,44,94.14,13,4142.16,6/24/2004 0:00,Cancelled,2,6,2004,Ships,90,S700_2047,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10386,29,85.76,13,2487.04,3/1/2005 0:00,Resolved,1,3,2005,Ships,90,S700_2047,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10262,33,90.75,6,2994.75,6/24/2004 0:00,Cancelled,2,6,2004,Planes,99,S700_2466,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10340,55,87.75,7,4826.25,11/24/2004 0:00,Shipped,4,11,2004,Planes,99,S700_2466,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium
+10386,37,83.84,14,3102.08,3/1/2005 0:00,Resolved,1,3,2005,Planes,99,S700_2466,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10177,32,76.62,1,2451.84,11/7/2003 0:00,Shipped,4,11,2003,Ships,72,S700_2610,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Small
+10197,50,78.79,7,3939.5,11/26/2003 0:00,Shipped,4,11,2003,Ships,72,S700_2610,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium
+10350,29,75.35,12,2185.15,12/2/2004 0:00,Shipped,4,12,2004,Ships,72,S700_2610,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10386,37,100.0,10,5017.57,3/1/2005 0:00,Resolved,1,3,2005,Ships,72,S700_2610,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10126,45,100.0,6,4597.2,5/28/2003 0:00,Shipped,2,5,2003,Classic Cars,101,S700_2824,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10348,32,82.83,7,2650.56,11/1/2004 0:00,Shipped,4,11,2004,Classic Cars,101,S700_2824,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Small
+10358,27,100.0,3,3761.37,12/10/2004 0:00,Shipped,4,12,2004,Classic Cars,101,S700_2824,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10424,46,80.92,1,3722.32,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,101,S700_2824,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10133,27,99.67,2,2691.09,6/27/2003 0:00,Shipped,2,6,2003,Planes,118,S700_2834,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10340,29,100.0,6,4094.51,11/24/2004 0:00,Shipped,4,11,2004,Planes,118,S700_2834,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium
+10262,27,76.0,5,2052.0,6/24/2004 0:00,Cancelled,2,6,2004,Planes,80,S700_3167,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10386,32,94.34,17,3018.88,3/1/2005 0:00,Resolved,1,3,2005,Planes,80,S700_3167,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10118,36,100.0,1,4219.2,4/21/2003 0:00,Shipped,2,4,2003,Ships,100,S700_3505,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium
+10153,50,88.15,2,4407.5,9/28/2003 0:00,Shipped,3,9,2003,Ships,100,S700_3505,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10177,44,92.16,4,4055.04,11/7/2003 0:00,Shipped,4,11,2003,Ships,100,S700_3505,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Medium
+10197,27,92.16,10,2488.32,11/26/2003 0:00,Shipped,4,11,2003,Ships,100,S700_3505,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Small
+10350,31,77.34,13,2397.54,12/2/2004 0:00,Shipped,4,12,2004,Ships,100,S700_3505,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10386,45,92.08,2,4143.6,3/1/2005 0:00,Resolved,1,3,2005,Ships,100,S700_3505,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10153,20,100.0,3,2204.6,9/28/2003 0:00,Shipped,3,9,2003,Ships,99,S700_3962,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10177,24,100.0,5,2526.48,11/7/2003 0:00,Shipped,4,11,2003,Ships,99,S700_3962,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Small
+10197,35,93.35,11,3267.25,11/26/2003 0:00,Shipped,4,11,2003,Ships,99,S700_3962,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium
+10350,25,100.0,16,2854.75,12/2/2004 0:00,Shipped,4,12,2004,Ships,99,S700_3962,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10386,30,95.48,3,2864.4,3/1/2005 0:00,Resolved,1,3,2005,Ships,99,S700_3962,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10262,35,71.07,7,2487.45,6/24/2004 0:00,Cancelled,2,6,2004,Planes,74,S700_4002,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10386,44,86.4,15,3801.6,3/1/2005 0:00,Resolved,1,3,2005,Planes,74,S700_4002,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10197,29,41.71,1,1209.59,11/26/2003 0:00,Shipped,4,11,2003,Planes,49,S72_1253,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Small
+10262,21,57.11,12,1199.31,6/24/2004 0:00,Cancelled,2,6,2004,Planes,49,S72_1253,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10386,50,87.15,16,4357.5,3/1/2005 0:00,Resolved,1,3,2005,Planes,49,S72_1253,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10153,50,60.06,4,3003.0,9/28/2003 0:00,Shipped,3,9,2003,Ships,54,S72_3212,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10177,40,50.23,6,2009.2,11/7/2003 0:00,Shipped,4,11,2003,Ships,54,S72_3212,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Small
+10197,42,50.23,12,2109.66,11/26/2003 0:00,Shipped,4,11,2003,Ships,54,S72_3212,Enaco Distributors,(93) 203 4555,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Small
+10350,20,100.0,15,2244.4,12/2/2004 0:00,Shipped,4,12,2004,Ships,54,S72_3212,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10386,43,100.0,4,5417.57,3/1/2005 0:00,Resolved,1,3,2005,Ships,54,S72_3212,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium

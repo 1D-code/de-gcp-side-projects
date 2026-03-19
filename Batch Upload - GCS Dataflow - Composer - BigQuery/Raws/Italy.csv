@@ -1,0 +1,114 @@
+ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+10280,34,100.0,2,8014.82,8/17/2004 0:00,Shipped,3,8,2004,Classic Cars,214,S10_1949,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Large
+10266,44,100.0,14,9160.36,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,194,S12_1099,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Large
+10176,33,100.0,2,7474.5,11/6/2003 0:00,Shipped,4,11,2003,Classic Cars,207,S12_1108,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Large
+10293,46,100.0,8,8411.56,9/9/2004 0:00,Shipped,3,9,2004,Classic Cars,207,S12_1108,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Large
+10176,47,100.0,3,8378.69,11/6/2003 0:00,Shipped,4,11,2003,Classic Cars,151,S12_3148,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Large
+10293,24,100.0,9,4242.24,9/9/2004 0:00,Shipped,3,9,2004,Classic Cars,151,S12_3148,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Medium
+10266,22,100.0,12,2454.54,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,117,S12_3380,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10176,50,100.0,1,7872.5,11/6/2003 0:00,Shipped,4,11,2003,Classic Cars,173,S12_3891,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Large
+10293,45,100.0,7,8253.0,9/9/2004 0:00,Shipped,3,9,2004,Classic Cars,173,S12_3891,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Large
+10266,35,76.61,15,2681.35,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,79,S12_3990,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10266,40,100.0,11,4468.4,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,115,S12_4675,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10280,24,100.0,1,2800.08,8/17/2004 0:00,Shipped,3,8,2004,Trucks and Buses,116,S18_1097,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10266,21,100.0,6,2526.51,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,141,S18_1129,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10173,43,100.0,6,5036.16,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,102,S18_1342,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10280,50,100.0,9,5239.5,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,102,S18_1342,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Medium
+10173,48,44.21,5,2122.08,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,53,S18_1367,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10280,27,57.68,8,1557.36,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,53,S18_1367,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10266,36,100.0,2,5196.6,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,124,S18_1589,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10106,36,100.0,12,5279.4,2/17/2003 0:00,Shipped,1,2,2003,Planes,157,S18_1662,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10416,24,100.0,14,4352.16,5/10/2005 0:00,Shipped,2,5,2005,Planes,157,S18_1662,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10173,24,100.0,13,3508.8,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,170,S18_1749,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10280,26,100.0,16,3668.6,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,170,S18_1749,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Medium
+10266,33,74.69,10,2464.77,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,77,S18_1889,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10266,49,100.0,5,6203.4,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,142,S18_1984,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10176,20,100.0,10,3667.6,11/6/2003 0:00,Shipped,4,11,2003,Classic Cars,163,S18_2238,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10173,26,57.51,12,1495.26,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,60,S18_2248,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10280,25,62.96,15,1574.0,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,60,S18_2248,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10173,31,100.0,10,4492.83,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,127,S18_2325,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10280,37,100.0,13,4750.8,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,127,S18_2325,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Medium
+10106,34,90.39,2,3073.26,2/17/2003 0:00,Shipped,1,2,2003,Planes,84,S18_2581,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10416,15,98.84,4,1482.6,5/10/2005 0:00,Shipped,2,5,2005,Planes,84,S18_2581,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10173,22,100.0,7,3452.68,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,168,S18_2795,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10280,22,100.0,10,4455.0,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,168,S18_2795,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Medium
+10266,20,100.0,3,2824.8,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,132,S18_2870,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10280,46,100.0,3,5126.24,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,101,S18_2949,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Medium
+10173,28,53.72,2,1504.16,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,62,S18_2957,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10280,43,68.71,5,2954.53,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,62,S18_2957,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10106,41,83.44,18,3421.04,2/17/2003 0:00,Shipped,1,2,2003,Ships,86,S18_3029,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10173,31,89.01,1,2759.31,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,104,S18_3136,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10280,29,100.0,4,3006.43,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,104,S18_3136,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Medium
+10293,24,100.0,4,2819.28,9/9/2004 0:00,Shipped,3,9,2004,Vintage Cars,136,S18_3140,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10266,29,100.0,7,4812.55,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,169,S18_3232,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10293,22,100.0,6,2418.24,9/9/2004 0:00,Shipped,3,9,2004,Trains,100,S18_3259,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10173,29,95.24,4,2761.96,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,99,S18_3320,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10280,34,100.0,7,3474.46,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,99,S18_3320,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Medium
+10266,33,100.0,4,5035.14,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,141,S18_3685,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10106,41,100.0,17,4774.86,2/17/2003 0:00,Shipped,1,2,2003,Vintage Cars,105,S18_3856,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10328,34,100.0,6,3815.48,11/12/2004 0:00,Shipped,4,11,2004,Vintage Cars,105,S18_3856,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10176,36,100.0,5,5532.12,11/6/2003 0:00,Shipped,4,11,2003,Classic Cars,143,S18_4027,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10173,21,75.46,14,1584.66,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,92,S18_4409,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10280,35,100.0,17,3704.05,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,92,S18_4409,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Medium
+10293,49,100.0,3,4946.06,9/9/2004 0:00,Shipped,3,9,2004,Vintage Cars,87,S18_4522,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Medium
+10173,39,71.98,15,2807.22,11/5/2003 0:00,Shipped,4,11,2003,Classic Cars,71,S18_4933,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10176,27,68.78,8,1857.06,11/6/2003 0:00,Shipped,4,11,2003,Classic Cars,57,S24_1444,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10266,28,48.3,1,1352.4,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,50,S24_1628,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10106,28,88.63,4,2481.64,2/17/2003 0:00,Shipped,1,2,2003,Planes,109,S24_1785,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10328,47,87.54,14,4114.38,11/12/2004 0:00,Shipped,4,11,2004,Planes,109,S24_1785,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10416,47,88.63,6,4165.61,5/10/2005 0:00,Shipped,2,5,2005,Planes,109,S24_1785,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10173,31,31.53,9,977.43,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,33,S24_1937,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10280,20,28.88,12,577.6,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,33,S24_1937,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10416,32,87.6,1,2803.2,5/10/2005 0:00,Shipped,2,5,2005,Motorcycles,76,S24_2000,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10293,21,100.0,2,2941.89,9/9/2004 0:00,Shipped,3,9,2004,Ships,122,S24_2011,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10173,27,41.22,8,1112.94,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,44,S24_2022,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10280,45,47.49,11,2137.05,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,44,S24_2022,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10106,49,74.68,13,3659.32,2/17/2003 0:00,Shipped,1,2,2003,Planes,68,S24_2841,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10328,48,58.92,1,2828.16,11/12/2004 0:00,Shipped,4,11,2004,Planes,68,S24_2841,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10173,23,100.0,16,2728.03,11/5/2003 0:00,Shipped,4,11,2003,Classic Cars,117,S24_2887,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10266,34,40.4,8,1373.6,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,37,S24_2972,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10266,47,62.45,13,2935.15,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,61,S24_3371,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10106,31,52.6,14,1630.6,2/17/2003 0:00,Shipped,1,2,2003,Vintage Cars,65,S24_3420,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10328,20,72.98,2,1459.6,11/12/2004 0:00,Shipped,4,11,2004,Vintage Cars,65,S24_3420,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10266,24,100.0,9,2932.08,7/6/2004 0:00,Shipped,3,7,2004,Classic Cars,140,S24_3856,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10106,50,64.83,11,3241.5,2/17/2003 0:00,Shipped,1,2,2003,Planes,68,S24_3949,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10328,35,76.43,3,2675.05,11/12/2004 0:00,Shipped,4,11,2004,Planes,68,S24_3949,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10416,18,75.06,13,1351.08,5/10/2005 0:00,Shipped,2,5,2005,Planes,68,S24_3949,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10173,35,33.23,11,1163.05,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,41,S24_3969,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10280,33,41.85,14,1381.05,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,41,S24_3969,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10176,29,100.0,7,2915.66,11/6/2003 0:00,Shipped,4,11,2003,Classic Cars,118,S24_4048,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10173,22,100.0,3,2571.14,11/5/2003 0:00,Shipped,4,11,2003,Vintage Cars,97,S24_4258,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10280,21,78.89,6,1656.69,8/17/2004 0:00,Shipped,3,8,2004,Vintage Cars,97,S24_4258,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10106,26,63.76,3,1657.76,2/17/2003 0:00,Shipped,1,2,2003,Planes,72,S24_4278,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10328,43,60.86,4,2616.98,11/12/2004 0:00,Shipped,4,11,2004,Planes,72,S24_4278,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10416,48,74.62,5,3581.76,5/10/2005 0:00,Shipped,2,5,2005,Planes,72,S24_4278,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10416,45,100.0,2,4764.6,5/10/2005 0:00,Shipped,2,5,2005,Motorcycles,99,S32_1374,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10176,22,64.0,6,1408.0,11/6/2003 0:00,Shipped,4,11,2003,Trains,62,S32_3207,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10106,33,72.92,5,2406.36,2/17/2003 0:00,Shipped,1,2,2003,Vintage Cars,68,S32_4289,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10328,24,81.17,5,1948.08,11/12/2004 0:00,Shipped,4,11,2004,Vintage Cars,68,S32_4289,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10416,26,61.22,7,1591.72,5/10/2005 0:00,Shipped,2,5,2005,Vintage Cars,68,S32_4289,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10106,39,40.15,6,1565.85,2/17/2003 0:00,Shipped,1,2,2003,Vintage Cars,43,S50_1341,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10328,34,51.93,7,1765.62,11/12/2004 0:00,Shipped,4,11,2004,Vintage Cars,43,S50_1341,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10416,37,51.93,8,1921.41,5/10/2005 0:00,Shipped,2,5,2005,Vintage Cars,43,S50_1341,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10176,23,100.0,9,3114.89,11/6/2003 0:00,Shipped,4,11,2003,Trucks and Buses,115,S50_1392,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10176,38,64.44,4,2448.72,11/6/2003 0:00,Shipped,4,11,2003,Trains,58,S50_1514,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10106,31,100.0,7,3312.97,2/17/2003 0:00,Shipped,1,2,2003,Planes,91,S700_1691,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10328,27,100.0,8,2762.1,11/12/2004 0:00,Shipped,4,11,2004,Planes,91,S700_1691,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10416,23,91.34,9,2100.82,5/10/2005 0:00,Shipped,2,5,2005,Planes,91,S700_1691,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10293,29,71.89,5,2084.81,9/9/2004 0:00,Shipped,3,9,2004,Ships,86,S700_1938,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10106,30,100.0,16,3177.3,2/17/2003 0:00,Shipped,1,2,2003,Ships,90,S700_2047,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10328,41,100.0,9,4156.58,11/12/2004 0:00,Shipped,4,11,2004,Ships,90,S700_2047,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10106,34,100.0,9,3763.46,2/17/2003 0:00,Shipped,1,2,2003,Planes,99,S700_2466,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10328,37,100.0,10,4021.53,11/12/2004 0:00,Shipped,4,11,2004,Planes,99,S700_2466,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10416,22,100.0,11,2457.18,5/10/2005 0:00,Shipped,2,5,2005,Planes,99,S700_2466,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10106,32,100.0,1,3986.56,2/17/2003 0:00,Shipped,1,2,2003,Planes,118,S700_2834,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10328,33,100.0,11,4072.2,11/12/2004 0:00,Shipped,4,11,2004,Planes,118,S700_2834,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10416,41,100.0,3,5642.83,5/10/2005 0:00,Shipped,2,5,2005,Planes,118,S700_2834,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10106,44,74.4,8,3273.6,2/17/2003 0:00,Shipped,1,2,2003,Planes,80,S700_3167,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10328,33,64.0,13,2112.0,11/12/2004 0:00,Shipped,4,11,2004,Planes,80,S700_3167,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10416,39,67.2,10,2620.8,5/10/2005 0:00,Shipped,2,5,2005,Planes,80,S700_3167,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10106,48,61.44,10,2949.12,2/17/2003 0:00,Shipped,1,2,2003,Planes,74,S700_4002,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10328,39,85.87,12,3348.93,11/12/2004 0:00,Shipped,4,11,2004,Planes,74,S700_4002,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10416,43,62.19,12,2674.17,5/10/2005 0:00,Shipped,2,5,2005,Planes,74,S700_4002,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10106,48,52.64,15,2526.72,2/17/2003 0:00,Shipped,1,2,2003,Planes,49,S72_1253,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10293,32,60.06,1,1921.92,9/9/2004 0:00,Shipped,3,9,2004,Ships,54,S72_3212,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small

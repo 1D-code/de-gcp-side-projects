@@ -1,0 +1,272 @@
+# ═══════════════════════════════════════════════════════════════
+# GCS → DATAFLOW → BIGQUERY PIPELINE — SETUP PROCEDURE
+# Replace all values under VARIABLES section before running
+# ═══════════════════════════════════════════════════════════════
+
+# ─── VARIABLES (replace all values here) ─────────────────────
+
+$PROJECT_ID       = "your-project-id"               # GCP project ID
+$REGION           = "asia-southeast1"                # GCP region (closest to PH)
+$USER_EMAIL       = "your@gmail.com"                 # your Google account
+
+# GCS
+$RAW_BUCKET       = "your-raw-bucket-name"           # e.g. csv-pipeline-raw
+$STAGING_BUCKET   = "your-staging-bucket-name"       # e.g. csv-pipeline-staging
+
+# BigQuery
+$BQ_DATASET       = "your_dataset"                   # e.g. sales
+$BQ_TABLE         = "your_table"                     # e.g. sales_data
+
+# Composer
+$COMPOSER_ENV     = "your-composer-env-name"         # e.g. csv-pipeline-env
+$COMPOSER_SA      = "your-sa@your-project.iam.gserviceaccount.com"  # Composer service account
+$COMPOSER_BUCKET  = "your-composer-bucket-name"      # filled after Phase 5 describe command
+
+# Local file paths
+$LOCAL_CSV_FOLDER = "$HOME\Desktop\csvs"             # folder with your CSV files
+$LOCAL_PIPELINE   = "pipeline.py"                    # path to your Beam pipeline script
+$LOCAL_DAG        = "dag.py"                         # path to your Airflow DAG file
+
+# ═══════════════════════════════════════════════════════════════
+# PHASE 1: AUTH
+# Run once on a new machine or after credentials expire
+# ═══════════════════════════════════════════════════════════════
+
+gcloud auth login
+gcloud config set project $PROJECT_ID
+gcloud auth application-default login
+
+# Enable required APIs
+gcloud services enable storage.googleapis.com `
+  dataflow.googleapis.com `
+  bigquery.googleapis.com `
+  composer.googleapis.com
+
+# ═══════════════════════════════════════════════════════════════
+# PHASE 1b: IAM — YOUR USER ACCOUNT
+# Grants your Google account permission to manage GCP resources
+# Run once per project
+# ═══════════════════════════════════════════════════════════════
+
+gcloud projects add-iam-policy-binding $PROJECT_ID `
+  --member="user:$USER_EMAIL" `
+  --role="roles/storage.admin"
+
+gcloud projects add-iam-policy-binding $PROJECT_ID `
+  --member="user:$USER_EMAIL" `
+  --role="roles/dataflow.developer"
+
+gcloud projects add-iam-policy-binding $PROJECT_ID `
+  --member="user:$USER_EMAIL" `
+  --role="roles/bigquery.dataEditor"
+
+gcloud projects add-iam-policy-binding $PROJECT_ID `
+  --member="user:$USER_EMAIL" `
+  --role="roles/bigquery.jobUser"
+
+gcloud projects add-iam-policy-binding $PROJECT_ID `
+  --member="user:$USER_EMAIL" `
+  --role="roles/composer.worker"
+
+# ═══════════════════════════════════════════════════════════════
+# PHASE 1c: IAM — COMPOSER SERVICE ACCOUNT
+# Airflow and Dataflow workers run as this SA internally
+# Create it once: Console → IAM → Service Accounts → Create
+# Then run all commands below to grant required roles
+# ═══════════════════════════════════════════════════════════════
+
+gcloud projects add-iam-policy-binding $PROJECT_ID `
+  --member="serviceAccount:$COMPOSER_SA" `
+  --role="roles/composer.worker"
+
+gcloud projects add-iam-policy-binding $PROJECT_ID `
+  --member="serviceAccount:$COMPOSER_SA" `
+  --role="roles/storage.admin"
+
+gcloud projects add-iam-policy-binding $PROJECT_ID `
+  --member="serviceAccount:$COMPOSER_SA" `
+  --role="roles/dataflow.admin"
+
+gcloud projects add-iam-policy-binding $PROJECT_ID `
+  --member="serviceAccount:$COMPOSER_SA" `
+  --role="roles/dataflow.worker"
+
+gcloud projects add-iam-policy-binding $PROJECT_ID `
+  --member="serviceAccount:$COMPOSER_SA" `
+  --role="roles/bigquery.dataEditor"
+
+gcloud projects add-iam-policy-binding $PROJECT_ID `
+  --member="serviceAccount:$COMPOSER_SA" `
+  --role="roles/bigquery.jobUser"
+
+# IMPORTANT: allow composer-sa to act as itself (required by Dataflow workers)
+gcloud iam service-accounts add-iam-policy-binding `
+  $COMPOSER_SA `
+  --member="serviceAccount:$COMPOSER_SA" `
+  --role="roles/iam.serviceAccountUser"
+
+# Also allow your user account to act as composer-sa
+gcloud iam service-accounts add-iam-policy-binding `
+  $COMPOSER_SA `
+  --member="user:$USER_EMAIL" `
+  --role="roles/iam.serviceAccountUser"
+
+# Verify all roles are assigned correctly
+gcloud projects get-iam-policy $PROJECT_ID `
+  --flatten="bindings[].members" `
+  --filter="bindings.members:$COMPOSER_SA" `
+  --format="table(bindings.role)"
+
+# Expected output:
+# roles/bigquery.dataEditor
+# roles/bigquery.jobUser
+# roles/composer.worker
+# roles/dataflow.admin
+# roles/dataflow.worker
+# roles/iam.serviceAccountUser  (on SA level, not project level)
+# roles/storage.admin
+
+# ═══════════════════════════════════════════════════════════════
+# PHASE 2: GCS BUCKETS
+# Run once — skip if buckets already exist
+# ═══════════════════════════════════════════════════════════════
+
+gsutil mb -l $REGION gs://$RAW_BUCKET
+gsutil mb -l $REGION gs://$STAGING_BUCKET
+
+# Create input/processed folder placeholders
+# NOTE: use New-TemporaryFile on Windows, not /dev/null
+$tmpFile = New-TemporaryFile
+gsutil cp $tmpFile.FullName gs://$RAW_BUCKET/input/.keep
+gsutil cp $tmpFile.FullName gs://$RAW_BUCKET/processed/.keep
+Remove-Item $tmpFile.FullName
+
+# Verify
+gsutil ls gs://$RAW_BUCKET/
+
+# ═══════════════════════════════════════════════════════════════
+# PHASE 3: UPLOAD CSVs FROM LOCAL
+# Run every time you have new CSV files to process
+# ═══════════════════════════════════════════════════════════════
+
+gsutil cp "$LOCAL_CSV_FOLDER\*.csv" gs://$RAW_BUCKET/input/
+
+# Verify
+gsutil ls gs://$RAW_BUCKET/input/
+
+# ═══════════════════════════════════════════════════════════════
+# PHASE 4: BIGQUERY DATASET + TABLE
+# Run once — skip if dataset and table already exist
+# Table is auto-created by pipeline if CREATE_IF_NEEDED is set
+# but create dataset manually first
+# ═══════════════════════════════════════════════════════════════
+
+bq --location=$REGION mk --dataset `
+  ${PROJECT_ID}:${BQ_DATASET}
+
+# Optional: pre-create table manually (pipeline will also create it)
+# Edit schema fields to match your CSV columns
+bq mk --table `
+  ${PROJECT_ID}:${BQ_DATASET}.${BQ_TABLE} `
+  order_number:INTEGER,quantity_ordered:INTEGER,price_each:FLOAT,`
+order_line_number:INTEGER,sales:FLOAT,order_date:DATE,status:STRING,`
+qtr_id:INTEGER,month_id:INTEGER,year_id:INTEGER,product_line:STRING,`
+msrp:FLOAT,product_code:STRING,customer_name:STRING,phone:STRING,`
+address_line1:STRING,address_line2:STRING,city:STRING,state:STRING,`
+postal_code:STRING,country:STRING,territory:STRING,`
+contact_lastname:STRING,contact_firstname:STRING,deal_size:STRING,`
+file_name:STRING,upload_time:TIMESTAMP,row_hash:STRING
+
+# Verify
+bq show ${PROJECT_ID}:${BQ_DATASET}.${BQ_TABLE}
+
+# ═══════════════════════════════════════════════════════════════
+# PHASE 5: CREATE COMPOSER ENVIRONMENT
+# Run once — takes 15-20 mins to provision
+# Uses the service account from Phase 1c
+# ═══════════════════════════════════════════════════════════════
+
+gcloud composer environments create $COMPOSER_ENV `
+  --location=$REGION `
+  --image-version=composer-2-airflow-2 `
+  --environment-size=small `
+  --service-account=$COMPOSER_SA
+
+# After environment is RUNNING, get the auto-generated bucket name
+gcloud composer environments describe $COMPOSER_ENV `
+  --location=$REGION `
+  --format="value(config.dagGcsPrefix)"
+# Output looks like: gs://asia-southeast1-xxx-bucket/dags
+# Copy the bucket name (between gs:// and /dags) and set it above in VARIABLES
+
+# Add apache-beam via Console AFTER environment is RUNNING:
+# Composer → your env → PyPI packages → Add:
+#   Package name:        apache-beam
+#   Extras and version:  [gcp]==2.55.0
+# NOTE: do NOT pin grpcio or grpcio-status — causes install failures
+
+# Verify Beam is installed after env restarts:
+# kubectl exec into worker pod and run: pip show apache-beam
+
+# ═══════════════════════════════════════════════════════════════
+# PHASE 6: UPLOAD PIPELINE + DAG
+# Run every time you update pipeline.py or dag.py
+# ═══════════════════════════════════════════════════════════════
+
+gsutil cp $LOCAL_PIPELINE gs://$COMPOSER_BUCKET/staging/pipeline.py
+gsutil cp $LOCAL_DAG      gs://$COMPOSER_BUCKET/dags/dag.py
+
+# Verify both files are there
+gsutil ls gs://$COMPOSER_BUCKET/staging/
+gsutil ls gs://$COMPOSER_BUCKET/dags/
+
+# ═══════════════════════════════════════════════════════════════
+# PHASE 7: TRIGGER + MONITOR
+# After DAG is visible in Airflow UI, trigger manually to test
+# ═══════════════════════════════════════════════════════════════
+
+# Check DAG loaded without errors
+gcloud composer environments run $COMPOSER_ENV `
+  --location=$REGION `
+  dags list
+
+# Trigger a manual run
+gcloud composer environments run $COMPOSER_ENV `
+  --location=$REGION `
+  dags trigger -- csv_to_bq_pipeline
+
+# Monitor Dataflow job
+# Console → Dataflow → Jobs → look for csv-merge-<date>-<timestamp>
+
+# If job name conflict error appears, cancel the stuck job:
+# gcloud dataflow jobs list --region=$REGION
+# gcloud dataflow jobs cancel JOB_ID --region=$REGION
+
+# Check BQ for loaded data
+bq query --use_legacy_sql=false `
+  "SELECT COUNT(*) as total_rows FROM ${PROJECT_ID}.${BQ_DATASET}.${BQ_TABLE}"
+
+# Clear all rows if you need a fresh reload (cheaper than DELETE)
+bq query --use_legacy_sql=false `
+  "TRUNCATE TABLE ${PROJECT_ID}.${BQ_DATASET}.${BQ_TABLE}"
+
+# ═══════════════════════════════════════════════════════════════
+# PHASE 8: COST CONTROL
+# Composer costs ~$3-5/day even when idle — pause when not in use
+# ═══════════════════════════════════════════════════════════════
+
+# Pause Composer scheduler (stops DAG runs, keeps env alive)
+gcloud composer environments update $COMPOSER_ENV `
+  --location=$REGION `
+  --update-env-variables=AIRFLOW__SCHEDULER__MAX_DAGRUNS_TO_CREATE_PER_LOOP=0
+
+# Resume Composer scheduler
+gcloud composer environments update $COMPOSER_ENV `
+  --location=$REGION `
+  --update-env-variables=AIRFLOW__SCHEDULER__MAX_DAGRUNS_TO_CREATE_PER_LOOP=10
+
+# Delete environment completely when done with project (saves most credits)
+# gcloud composer environments delete $COMPOSER_ENV --location=$REGION
+
+# Check remaining credits
+# Console → Billing → Credits

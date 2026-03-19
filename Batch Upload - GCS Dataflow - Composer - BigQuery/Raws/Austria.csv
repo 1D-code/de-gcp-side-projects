@@ -1,0 +1,56 @@
+ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+10341,41,100.0,9,7737.93,11/24/2004 0:00,Shipped,4,11,2004,Motorcycles,95,S10_1678,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Large
+10119,46,100.0,11,5004.8,4/28/2003 0:00,Shipped,2,4,2003,Classic Cars,136,S10_4757,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10164,21,100.0,2,3536.82,10/21/2003 0:00,Resolved,4,10,2003,Classic Cars,147,S10_4962,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Medium
+10341,45,79.65,2,3584.25,11/24/2004 0:00,Shipped,4,11,2004,Classic Cars,194,S12_1099,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10419,12,100.0,13,1961.28,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,194,S12_1099,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10164,49,100.0,6,6563.06,10/21/2003 0:00,Resolved,4,10,2003,Trucks and Buses,136,S12_1666,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Medium
+10341,55,100.0,8,8118.55,11/24/2004 0:00,Shipped,4,11,2004,Motorcycles,150,S12_2823,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Large
+10170,47,100.0,4,5464.69,11/4/2003 0:00,Shipped,4,11,2003,Classic Cars,117,S12_3380,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Medium
+10341,44,95.93,1,4220.92,11/24/2004 0:00,Shipped,4,11,2004,Classic Cars,117,S12_3380,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10419,10,100.0,11,1092.2,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,117,S12_3380,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10341,36,93.56,10,3368.16,11/24/2004 0:00,Shipped,4,11,2004,Classic Cars,79,S12_3990,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10419,34,90.17,14,3065.78,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,79,S12_3990,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10170,41,100.0,3,4391.1,11/4/2003 0:00,Shipped,4,11,2003,Classic Cars,115,S12_4675,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Medium
+10341,55,75.2,7,4136.0,11/24/2004 0:00,Shipped,4,11,2004,Classic Cars,115,S12_4675,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10419,32,100.0,10,3832.64,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,115,S12_4675,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10164,36,99.17,8,3570.12,10/21/2003 0:00,Resolved,4,10,2003,Trucks and Buses,116,S18_1097,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Medium
+10419,38,100.0,5,4464.24,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,141,S18_1129,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10419,37,100.0,1,5202.94,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,124,S18_1589,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10119,43,100.0,3,6916.12,4/28/2003 0:00,Shipped,2,4,2003,Planes,157,S18_1662,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10170,20,63.14,2,1262.8,11/4/2003 0:00,Shipped,4,11,2003,Classic Cars,77,S18_1889,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Small
+10419,39,83.93,9,3273.27,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,77,S18_1889,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10419,34,100.0,4,4594.76,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,142,S18_1984,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10419,55,100.0,2,7695.6,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,132,S18_2870,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Large
+10269,32,63.08,1,2018.56,7/16/2004 0:00,Shipped,3,7,2004,Vintage Cars,62,S18_2957,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10392,37,59.96,3,2218.52,3/10/2005 0:00,Shipped,1,3,2005,Vintage Cars,62,S18_2957,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Small
+10119,21,89.46,9,1878.66,4/28/2003 0:00,Shipped,2,4,2003,Ships,86,S18_3029,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10392,29,86.92,2,2520.68,3/10/2005 0:00,Shipped,1,3,2005,Vintage Cars,104,S18_3136,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Small
+10419,35,100.0,6,5926.9,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,169,S18_3232,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10392,36,100.0,1,4035.96,3/10/2005 0:00,Shipped,1,3,2005,Vintage Cars,99,S18_3320,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Medium
+10419,43,100.0,3,5589.14,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,141,S18_3685,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10119,27,99.52,8,2687.04,4/28/2003 0:00,Shipped,2,4,2003,Vintage Cars,105,S18_3856,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10164,45,100.0,3,5012.55,10/21/2003 0:00,Resolved,4,10,2003,Trucks and Buses,121,S18_4600,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Medium
+10164,25,53.83,7,1345.75,10/21/2003 0:00,Resolved,4,10,2003,Vintage Cars,50,S18_4668,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Small
+10341,32,100.0,6,3307.2,11/24/2004 0:00,Shipped,4,11,2004,Motorcycles,69,S24_2360,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10119,41,59.6,4,2443.6,4/28/2003 0:00,Shipped,2,4,2003,Planes,68,S24_2841,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10419,15,42.67,7,640.05,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,37,S24_2972,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10119,35,87.62,13,3066.7,4/28/2003 0:00,Shipped,2,4,2003,Vintage Cars,88,S24_3151,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10419,55,52.66,12,2896.3,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,61,S24_3371,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10119,20,72.98,5,1459.6,4/28/2003 0:00,Shipped,2,4,2003,Vintage Cars,65,S24_3420,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10119,35,90.57,10,3169.95,4/28/2003 0:00,Shipped,2,4,2003,Vintage Cars,83,S24_3816,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10170,34,100.0,1,3819.56,11/4/2003 0:00,Shipped,4,11,2003,Classic Cars,140,S24_3856,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Medium
+10419,70,100.0,8,9240.0,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,140,S24_3856,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Large
+10119,28,70.29,2,1968.12,4/28/2003 0:00,Shipped,2,4,2003,Planes,68,S24_3949,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10269,48,97.39,2,4674.72,7/16/2004 0:00,Shipped,3,7,2004,Vintage Cars,97,S24_4258,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10164,24,100.0,1,2634.96,10/21/2003 0:00,Resolved,4,10,2003,Trucks and Buses,96,S32_1268,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Small
+10164,49,54.94,5,2692.06,10/21/2003 0:00,Resolved,4,10,2003,Trucks and Buses,64,S32_3522,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Small
+10341,31,71.02,4,2201.62,11/24/2004 0:00,Shipped,4,11,2004,Motorcycles,102,S32_4485,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10341,38,100.0,3,4682.36,11/24/2004 0:00,Shipped,4,11,2004,Motorcycles,81,S50_4713,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10119,25,76.67,14,1916.75,4/28/2003 0:00,Shipped,2,4,2003,Ships,66,S700_1138,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10119,29,94.14,7,2730.06,4/28/2003 0:00,Shipped,2,4,2003,Ships,90,S700_2047,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10119,38,65.77,12,2499.26,4/28/2003 0:00,Shipped,2,4,2003,Ships,72,S700_2610,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10164,39,81.93,4,3195.27,10/21/2003 0:00,Resolved,4,10,2003,Classic Cars,101,S700_2824,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Medium
+10341,34,100.0,5,3644.12,11/24/2004 0:00,Shipped,4,11,2004,Planes,80,S700_3167,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+10119,26,59.22,1,1539.72,4/28/2003 0:00,Shipped,2,4,2003,Planes,74,S700_4002,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+10119,28,48.17,6,1348.76,4/28/2003 0:00,Shipped,2,4,2003,Planes,49,S72_1253,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small

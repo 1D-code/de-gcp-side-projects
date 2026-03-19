@@ -1,0 +1,58 @@
+ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+10112,29,100.0,1,7209.11,3/24/2003 0:00,Shipped,1,3,2003,Classic Cars,214,S10_1949,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Large
+10291,37,100.0,11,7136.19,9/8/2004 0:00,Shipped,3,9,2004,Classic Cars,214,S10_1949,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Large
+10167,44,100.0,9,5924.16,10/23/2003 0:00,Cancelled,4,10,2003,Classic Cars,136,S10_4757,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10291,30,100.0,4,3855.9,9/8/2004 0:00,Shipped,3,9,2004,Classic Cars,147,S10_4962,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10334,26,100.0,2,3188.12,11/19/2004 0:00,On Hold,4,11,2004,Classic Cars,147,S10_4962,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Medium
+10320,31,100.0,3,6876.11,11/3/2004 0:00,Shipped,4,11,2004,Classic Cars,194,S12_1099,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Medium
+10389,26,99.04,4,2575.04,3/3/2005 0:00,Shipped,1,3,2005,Classic Cars,194,S12_1099,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10291,41,100.0,8,6387.8,9/8/2004 0:00,Shipped,3,9,2004,Trucks and Buses,136,S12_1666,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10320,35,100.0,1,4850.3,11/3/2004 0:00,Shipped,4,11,2004,Classic Cars,117,S12_3380,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Medium
+10389,25,72.38,6,1809.5,3/3/2005 0:00,Shipped,1,3,2005,Classic Cars,117,S12_3380,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10320,38,73.42,4,2789.96,11/3/2004 0:00,Shipped,4,11,2004,Classic Cars,79,S12_3990,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Small
+10389,36,70.26,7,2529.36,3/3/2005 0:00,Shipped,1,3,2005,Classic Cars,79,S12_3990,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10389,47,100.0,8,5243.79,3/3/2005 0:00,Shipped,1,3,2005,Classic Cars,115,S12_4675,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10291,41,100.0,10,4687.94,9/8/2004 0:00,Shipped,3,9,2004,Trucks and Buses,116,S18_1097,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10167,43,100.0,1,5763.72,10/23/2003 0:00,Cancelled,4,10,2003,Planes,157,S18_1662,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10389,49,79.22,3,3881.78,3/3/2005 0:00,Shipped,1,3,2005,Classic Cars,77,S18_1889,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10334,46,100.0,6,5814.86,11/19/2004 0:00,On Hold,4,11,2004,Trucks and Buses,122,S18_2319,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Medium
+10291,26,57.73,2,1500.98,9/8/2004 0:00,Shipped,3,9,2004,Trucks and Buses,60,S18_2432,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10334,34,61.38,1,2086.92,11/19/2004 0:00,On Hold,4,11,2004,Trucks and Buses,60,S18_2432,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Small
+10389,39,100.0,5,6981.0,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,60,S18_2625,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10112,23,100.0,2,2539.89,3/24/2003 0:00,Shipped,1,3,2003,Vintage Cars,101,S18_2949,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Small
+10291,47,100.0,12,5713.79,9/8/2004 0:00,Shipped,3,9,2004,Vintage Cars,101,S18_2949,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10291,37,50.59,14,1871.83,9/8/2004 0:00,Shipped,3,9,2004,Vintage Cars,62,S18_2957,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10167,46,73.12,7,3363.52,10/23/2003 0:00,Cancelled,4,10,2003,Ships,86,S18_3029,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10291,23,100.0,13,2866.26,9/8/2004 0:00,Shipped,3,9,2004,Vintage Cars,104,S18_3136,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10334,20,100.0,3,2878.8,11/19/2004 0:00,On Hold,4,11,2004,Classic Cars,169,S18_3232,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Small
+10326,32,100.0,6,3807.68,11/9/2004 0:00,Shipped,4,11,2004,Trains,100,S18_3259,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Medium
+10320,25,100.0,5,3491.0,11/3/2004 0:00,Shipped,4,11,2004,Classic Cars,146,S18_3482,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Medium
+10167,34,100.0,6,3599.58,10/23/2003 0:00,Cancelled,4,10,2003,Vintage Cars,105,S18_3856,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10326,50,86.01,5,4300.5,11/9/2004 0:00,Shipped,4,11,2004,Vintage Cars,87,S18_4522,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Medium
+10291,48,100.0,5,5288.64,9/8/2004 0:00,Shipped,3,9,2004,Trucks and Buses,121,S18_4600,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10334,49,100.0,4,6763.47,11/19/2004 0:00,On Hold,4,11,2004,Trucks and Buses,121,S18_4600,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Medium
+10291,29,51.82,9,1502.78,9/8/2004 0:00,Shipped,3,9,2004,Vintage Cars,50,S18_4668,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10389,45,100.0,1,4597.65,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,112,S24_1578,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10389,49,81.4,2,3988.6,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,76,S24_2000,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10167,33,100.0,16,3812.16,10/23/2003 0:00,Cancelled,4,10,2003,Ships,122,S24_2011,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10326,41,100.0,4,4333.29,11/9/2004 0:00,Shipped,4,11,2004,Ships,122,S24_2011,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Medium
+10291,48,100.0,1,5398.08,9/8/2004 0:00,Shipped,3,9,2004,Trucks and Buses,127,S24_2300,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10334,42,100.0,5,5528.04,11/19/2004 0:00,On Hold,4,11,2004,Trucks and Buses,127,S24_2300,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Medium
+10167,21,69.88,2,1467.48,10/23/2003 0:00,Cancelled,4,10,2003,Planes,68,S24_2841,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10167,20,79.66,11,1593.2,10/23/2003 0:00,Cancelled,4,10,2003,Vintage Cars,88,S24_3151,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10326,41,85.85,3,3519.85,11/9/2004 0:00,Shipped,4,11,2004,Vintage Cars,88,S24_3151,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Medium
+10320,26,61.23,2,1591.98,11/3/2004 0:00,Shipped,4,11,2004,Classic Cars,61,S24_3371,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Small
+10167,32,63.12,3,2019.84,10/23/2003 0:00,Cancelled,4,10,2003,Vintage Cars,65,S24_3420,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10167,29,83.86,8,2431.94,10/23/2003 0:00,Cancelled,4,10,2003,Vintage Cars,83,S24_3816,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10326,20,92.25,2,1845.0,11/9/2004 0:00,Shipped,4,11,2004,Vintage Cars,83,S24_3816,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Small
+10291,26,83.79,3,2178.54,9/8/2004 0:00,Shipped,3,9,2004,Trucks and Buses,96,S32_1268,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10291,32,71.75,7,2296.0,9/8/2004 0:00,Shipped,3,9,2004,Trucks and Buses,64,S32_3522,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10167,43,75.34,12,3239.62,10/23/2003 0:00,Cancelled,4,10,2003,Ships,66,S700_1138,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10326,39,60.0,1,2340.0,11/9/2004 0:00,Shipped,4,11,2004,Ships,66,S700_1138,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Small
+10167,29,100.0,5,2940.02,10/23/2003 0:00,Cancelled,4,10,2003,Ships,90,S700_2047,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10167,46,70.11,10,3225.06,10/23/2003 0:00,Cancelled,4,10,2003,Ships,72,S700_2610,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10291,28,100.0,6,3256.96,9/8/2004 0:00,Shipped,3,9,2004,Classic Cars,101,S700_2824,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10167,24,100.0,13,2812.8,10/23/2003 0:00,Cancelled,4,10,2003,Ships,100,S700_3505,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10167,28,100.0,14,3003.0,10/23/2003 0:00,Cancelled,4,10,2003,Ships,99,S700_3962,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+10167,40,41.71,4,1668.4,10/23/2003 0:00,Cancelled,4,10,2003,Planes,49,S72_1253,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+10167,38,48.59,15,1846.42,10/23/2003 0:00,Cancelled,4,10,2003,Ships,54,S72_3212,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small

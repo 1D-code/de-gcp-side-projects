@@ -1,0 +1,64 @@
+ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+10105,50,100.0,2,7208.0,2/11/2003 0:00,Shipped,1,2,2003,Classic Cars,136,S10_4757,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Large
+10238,28,100.0,3,5774.72,4/9/2004 0:00,Shipped,2,4,2004,Classic Cars,194,S12_1099,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10105,41,100.0,15,8690.36,2/11/2003 0:00,Shipped,1,2,2003,Classic Cars,207,S12_1108,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Large
+10314,38,100.0,5,7975.44,10/22/2004 0:00,Shipped,4,10,2004,Classic Cars,207,S12_1108,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Large
+10314,46,100.0,6,6393.54,10/22/2004 0:00,Shipped,4,10,2004,Classic Cars,151,S12_3148,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Medium
+10238,29,100.0,1,3167.38,4/9/2004 0:00,Shipped,2,4,2004,Classic Cars,117,S12_3380,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10105,29,100.0,14,4566.05,2/11/2003 0:00,Shipped,1,2,2003,Classic Cars,173,S12_3891,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10314,36,100.0,4,6913.8,10/22/2004 0:00,Shipped,4,10,2004,Classic Cars,173,S12_3891,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Medium
+10238,20,74.21,4,1484.2,4/9/2004 0:00,Shipped,2,4,2004,Classic Cars,79,S12_3990,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Small
+10314,45,100.0,14,6185.7,10/22/2004 0:00,Shipped,4,10,2004,Trucks and Buses,118,S12_4473,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Medium
+10161,28,100.0,12,3764.88,10/17/2003 0:00,Shipped,4,10,2003,Classic Cars,141,S18_1129,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Medium
+10406,61,100.0,3,8374.69,4/15/2005 0:00,Disputed,2,4,2005,Classic Cars,141,S18_1129,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Large
+10256,34,95.55,2,3248.7,6/8/2004 0:00,Shipped,2,6,2004,Vintage Cars,102,S18_1342,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10256,29,51.75,1,1500.75,6/8/2004 0:00,Shipped,2,6,2004,Vintage Cars,53,S18_1367,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Small
+10161,43,100.0,8,6153.73,10/17/2003 0:00,Shipped,4,10,2003,Classic Cars,124,S18_1589,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Medium
+10327,25,100.0,6,2804.75,11/10/2004 0:00,Resolved,4,11,2004,Planes,157,S18_1662,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Small
+10161,48,100.0,11,6145.44,10/17/2003 0:00,Shipped,4,10,2003,Classic Cars,142,S18_1984,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Medium
+10406,48,100.0,2,7169.28,4/15/2005 0:00,Disputed,2,4,2005,Classic Cars,142,S18_1984,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Large
+10314,42,100.0,13,5776.26,10/22/2004 0:00,Shipped,4,10,2004,Classic Cars,163,S18_2238,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Medium
+10327,45,100.0,8,4781.7,11/10/2004 0:00,Resolved,4,11,2004,Planes,84,S18_2581,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10161,23,100.0,9,3187.8,10/17/2003 0:00,Shipped,4,10,2003,Classic Cars,132,S18_2870,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Medium
+10327,25,45.86,5,1146.5,11/10/2004 0:00,Resolved,4,11,2004,Ships,86,S18_3029,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Small
+10105,22,100.0,11,3065.04,2/11/2003 0:00,Shipped,1,2,2003,Vintage Cars,136,S18_3140,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10314,20,100.0,1,2731.8,10/22/2004 0:00,Shipped,4,10,2004,Vintage Cars,136,S18_3140,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10105,38,100.0,13,4330.1,2/11/2003 0:00,Shipped,1,2,2003,Trains,100,S18_3259,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10314,23,100.0,3,2481.7,10/22/2004 0:00,Shipped,4,10,2004,Trains,100,S18_3259,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10238,41,73.17,6,2999.97,4/9/2004 0:00,Shipped,2,4,2004,Classic Cars,80,S18_3278,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Small
+10238,49,100.0,5,6554.24,4/9/2004 0:00,Shipped,2,4,2004,Classic Cars,146,S18_3482,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10161,36,100.0,10,5544.0,10/17/2003 0:00,Shipped,4,10,2003,Classic Cars,141,S18_3685,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Medium
+10406,65,100.0,1,10468.9,4/15/2005 0:00,Disputed,2,4,2005,Classic Cars,141,S18_3685,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Large
+10314,29,100.0,8,4206.74,10/22/2004 0:00,Shipped,4,10,2004,Classic Cars,143,S18_4027,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Medium
+10105,41,82.5,10,3382.5,2/11/2003 0:00,Shipped,1,2,2003,Vintage Cars,87,S18_4522,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10238,44,100.0,8,6350.96,4/9/2004 0:00,Shipped,2,4,2004,Classic Cars,148,S18_4721,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10161,25,80.54,1,2013.5,10/17/2003 0:00,Shipped,4,10,2003,Classic Cars,71,S18_4933,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10161,37,72.76,5,2692.12,10/17/2003 0:00,Shipped,4,10,2003,Classic Cars,73,S24_1046,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10314,44,53.18,11,2339.92,10/22/2004 0:00,Shipped,4,10,2004,Classic Cars,57,S24_1444,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10161,23,53.33,7,1226.59,10/17/2003 0:00,Shipped,4,10,2003,Classic Cars,50,S24_1628,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10105,43,100.0,9,6341.21,2/11/2003 0:00,Shipped,1,2,2003,Ships,122,S24_2011,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10161,20,100.0,3,2144.6,10/17/2003 0:00,Shipped,4,10,2003,Classic Cars,90,S24_2766,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10314,39,37.13,15,1448.07,10/22/2004 0:00,Shipped,4,10,2004,Classic Cars,35,S24_2840,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10161,25,100.0,2,2759.75,10/17/2003 0:00,Shipped,4,10,2003,Classic Cars,117,S24_2887,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10105,44,72.58,4,3193.52,2/11/2003 0:00,Shipped,1,2,2003,Vintage Cars,88,S24_3151,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10161,20,77.05,4,1541.0,10/17/2003 0:00,Shipped,4,10,2003,Classic Cars,85,S24_3191,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10238,47,62.45,2,2935.15,4/9/2004 0:00,Shipped,2,4,2004,Classic Cars,61,S24_3371,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Small
+10161,30,100.0,6,3148.2,10/17/2003 0:00,Shipped,4,10,2003,Classic Cars,107,S24_3432,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Medium
+10105,50,79.67,1,3983.5,2/11/2003 0:00,Shipped,1,2,2003,Vintage Cars,83,S24_3816,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10314,38,100.0,10,4000.26,10/22/2004 0:00,Shipped,4,10,2004,Classic Cars,118,S24_4048,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Medium
+10238,22,93.77,7,2062.94,4/9/2004 0:00,Shipped,2,4,2004,Classic Cars,80,S24_4620,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Small
+10314,35,66.49,9,2327.15,10/22/2004 0:00,Shipped,4,10,2004,Trains,62,S32_3207,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10314,28,100.0,12,3403.12,10/22/2004 0:00,Shipped,4,10,2004,Trucks and Buses,115,S50_1392,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Medium
+10314,38,61.51,7,2337.38,10/22/2004 0:00,Shipped,4,10,2004,Trains,58,S50_1514,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10105,41,70.67,5,2897.47,2/11/2003 0:00,Shipped,1,2,2003,Ships,66,S700_1138,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Small
+10105,29,70.15,12,2034.35,2/11/2003 0:00,Shipped,1,2,2003,Ships,86,S700_1938,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Small
+10314,23,76.22,2,1753.06,10/22/2004 0:00,Shipped,4,10,2004,Ships,86,S700_1938,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10327,20,100.0,7,3469.2,11/10/2004 0:00,Resolved,4,11,2004,Ships,86,S700_1938,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10105,31,65.77,3,2038.87,2/11/2003 0:00,Shipped,1,2,2003,Ships,72,S700_2610,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Small
+10327,21,96.31,1,2022.51,11/10/2004 0:00,Resolved,4,11,2004,Ships,72,S700_2610,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Small
+10105,39,81.14,6,3164.46,2/11/2003 0:00,Shipped,1,2,2003,Ships,100,S700_3505,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10327,43,80.0,2,3440.0,11/10/2004 0:00,Resolved,4,11,2004,Ships,100,S700_3505,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10105,22,100.0,7,2556.18,2/11/2003 0:00,Shipped,1,2,2003,Ships,99,S700_3962,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Small
+10327,37,86.61,3,3204.57,11/10/2004 0:00,Resolved,4,11,2004,Ships,99,S700_3962,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10105,25,56.78,8,1419.5,2/11/2003 0:00,Shipped,1,2,2003,Ships,54,S72_3212,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Small
+10327,37,86.74,4,3209.38,11/10/2004 0:00,Resolved,4,11,2004,Ships,54,S72_3212,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium

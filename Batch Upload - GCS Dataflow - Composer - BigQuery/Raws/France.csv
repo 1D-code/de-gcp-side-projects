@@ -1,0 +1,315 @@
+ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+10121,34,81.35,5,2765.9,5/7/2003 0:00,Shipped,2,5,2003,Motorcycles,95,S10_1678,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10134,41,94.74,2,3884.34,7/1/2003 0:00,Shipped,3,7,2003,Motorcycles,95,S10_1678,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10180,29,86.13,9,2497.77,11/11/2003 0:00,Shipped,4,11,2003,Motorcycles,95,S10_1678,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small
+10211,41,100.0,14,4708.44,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,95,S10_1678,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10275,45,92.83,1,4177.35,7/23/2004 0:00,Shipped,3,7,2004,Motorcycles,95,S10_1678,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10375,21,34.91,12,733.11,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,95,S10_1678,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10194,42,100.0,11,7290.36,11/25/2003 0:00,Shipped,4,11,2003,Classic Cars,214,S10_1949,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Large
+10304,47,100.0,6,10172.7,10/11/2004 0:00,Shipped,4,10,2004,Classic Cars,214,S10_1949,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Large
+10134,27,100.0,5,3307.77,7/1/2003 0:00,Shipped,3,7,2003,Motorcycles,118,S10_2016,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10180,42,100.0,12,4695.6,11/11/2003 0:00,Shipped,4,11,2003,Motorcycles,118,S10_2016,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Medium
+10275,22,100.0,4,2904.44,7/23/2004 0:00,Shipped,3,7,2004,Motorcycles,118,S10_2016,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10298,39,96.34,1,3757.26,9/27/2004 0:00,Shipped,3,9,2004,Motorcycles,118,S10_2016,Atelier graphique,40.32.2555,"54, rue Royale",,Nantes,,44000,France,EMEA,Schmitt,Carine,Medium
+10402,45,100.0,1,5833.8,4/7/2005 0:00,Shipped,2,4,2005,Motorcycles,118,S10_2016,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10134,31,100.0,4,7023.98,7/1/2003 0:00,Shipped,3,7,2003,Motorcycles,193,S10_4698,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Large
+10180,41,100.0,11,8892.9,11/11/2003 0:00,Shipped,4,11,2003,Motorcycles,193,S10_4698,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Large
+10275,36,100.0,3,6901.92,7/23/2004 0:00,Shipped,3,7,2004,Motorcycles,193,S10_4698,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10178,24,100.0,12,3492.48,11/8/2003 0:00,Shipped,4,11,2003,Classic Cars,136,S10_4757,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Medium
+10359,48,54.68,6,2624.64,12/15/2004 0:00,Shipped,4,12,2004,Classic Cars,136,S10_4757,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10395,32,100.0,2,3370.56,3/17/2005 0:00,Shipped,1,3,2005,Classic Cars,136,S10_4757,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10114,31,100.0,8,4305.28,4/1/2003 0:00,Shipped,2,4,2003,Classic Cars,147,S10_4962,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium
+10194,26,100.0,4,4263.74,11/25/2003 0:00,Shipped,4,11,2003,Classic Cars,147,S10_4962,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10425,38,100.0,12,5894.94,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,147,S10_4962,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10122,42,100.0,10,7599.9,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,194,S12_1099,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Large
+10211,41,100.0,2,7498.9,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,194,S12_1099,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Large
+10375,45,76.0,7,3420.0,2/3/2005 0:00,Shipped,1,2,2005,Classic Cars,194,S12_1099,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10208,46,100.0,13,8602.92,1/2/2004 0:00,Shipped,1,1,2004,Classic Cars,207,S12_1108,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Large
+10336,33,57.22,10,1888.26,11/20/2004 0:00,Shipped,4,11,2004,Classic Cars,207,S12_1108,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Small
+10359,42,100.0,8,4764.48,12/15/2004 0:00,Shipped,4,12,2004,Classic Cars,207,S12_1108,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10395,33,69.12,1,2280.96,3/17/2005 0:00,Shipped,1,3,2005,Classic Cars,207,S12_1108,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Small
+10194,38,100.0,8,4933.92,11/25/2003 0:00,Shipped,4,11,2003,Trucks and Buses,136,S12_1666,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10216,43,100.0,1,5759.42,2/2/2004 0:00,Shipped,1,2,2004,Trucks and Buses,136,S12_1666,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Medium
+10304,39,100.0,3,6396.0,10/11/2004 0:00,Shipped,4,10,2004,Trucks and Buses,136,S12_1666,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Medium
+10121,50,100.0,4,8284.0,5/7/2003 0:00,Shipped,2,5,2003,Motorcycles,150,S12_2823,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Large
+10134,20,100.0,1,2711.2,7/1/2003 0:00,Shipped,3,7,2003,Motorcycles,150,S12_2823,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Small
+10180,40,100.0,8,6747.6,11/11/2003 0:00,Shipped,4,11,2003,Motorcycles,150,S12_2823,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Medium
+10211,36,100.0,13,4771.8,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,150,S12_2823,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10224,43,100.0,6,6087.94,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,150,S12_2823,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Medium
+10375,49,78.92,13,3867.08,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,150,S12_2823,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10208,26,100.0,14,3142.36,1/2/2004 0:00,Shipped,1,1,2004,Classic Cars,151,S12_3148,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10336,33,100.0,11,4059.33,11/20/2004 0:00,Shipped,4,11,2004,Classic Cars,151,S12_3148,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium
+10122,37,99.82,8,3693.34,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,117,S12_3380,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium
+10208,20,100.0,12,3114.4,1/2/2004 0:00,Shipped,1,1,2004,Classic Cars,173,S12_3891,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10336,49,63.38,1,3105.62,11/20/2004 0:00,Shipped,4,11,2004,Classic Cars,173,S12_3891,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium
+10359,49,62.09,5,3042.41,12/15/2004 0:00,Shipped,4,12,2004,Classic Cars,173,S12_3891,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10122,32,63.84,11,2042.88,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,79,S12_3990,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10211,28,92.57,3,2591.96,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,79,S12_3990,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small
+10336,38,100.0,3,6372.6,11/20/2004 0:00,Shipped,4,11,2004,Trucks and Buses,118,S12_4473,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium
+10425,33,100.0,4,4692.6,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,118,S12_4473,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10122,20,100.0,7,2142.0,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,115,S12_4675,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10405,97,93.28,5,9048.16,4/14/2005 0:00,Shipped,2,4,2005,Classic Cars,115,S12_4675,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Large
+10194,21,93.34,10,1960.14,11/25/2003 0:00,Shipped,4,11,2003,Trucks and Buses,116,S18_1097,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10304,46,98.0,5,4508.0,10/11/2004 0:00,Shipped,4,10,2004,Trucks and Buses,116,S18_1097,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Medium
+10122,34,100.0,2,5004.8,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,141,S18_1129,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium
+10136,25,100.0,2,3644.75,7/4/2003 0:00,Shipped,3,7,2003,Classic Cars,141,S18_1129,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Medium
+10356,43,97.6,8,4196.8,12/9/2004 0:00,Shipped,4,12,2004,Classic Cars,141,S18_1129,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10227,25,100.0,3,2953.75,3/2/2004 0:00,Shipped,1,3,2004,Vintage Cars,102,S18_1342,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10304,37,95.55,13,3535.35,10/11/2004 0:00,Shipped,4,10,2004,Vintage Cars,102,S18_1342,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Medium
+10356,50,50.18,9,2509.0,12/9/2004 0:00,Shipped,4,12,2004,Vintage Cars,102,S18_1342,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Small
+10227,31,48.52,2,1504.12,3/2/2004 0:00,Shipped,1,3,2004,Vintage Cars,53,S18_1367,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10304,37,48.52,12,1795.24,10/11/2004 0:00,Shipped,4,10,2004,Vintage Cars,53,S18_1367,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Small
+10356,22,72.41,6,1593.02,12/9/2004 0:00,Shipped,4,12,2004,Vintage Cars,53,S18_1367,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Small
+10123,26,100.0,2,3073.72,5/20/2003 0:00,Shipped,2,5,2003,Classic Cars,124,S18_1589,Atelier graphique,40.32.2555,"54, rue Royale",,Nantes,,44000,France,EMEA,Schmitt,Carine,Medium
+10137,44,99.55,2,4380.2,7/10/2003 0:00,Shipped,3,7,2003,Classic Cars,124,S18_1589,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10241,21,100.0,11,2508.66,4/13/2004 0:00,Shipped,2,4,2004,Classic Cars,124,S18_1589,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Small
+10343,36,100.0,4,5848.92,11/24/2004 0:00,Shipped,4,11,2004,Classic Cars,124,S18_1589,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10178,42,100.0,4,6490.68,11/8/2003 0:00,Shipped,4,11,2003,Planes,157,S18_1662,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Medium
+10398,33,100.0,11,4215.09,3/30/2005 0:00,Shipped,1,3,2005,Planes,157,S18_1662,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10227,26,100.0,10,3712.8,3/2/2004 0:00,Shipped,1,3,2004,Vintage Cars,170,S18_1749,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10241,41,100.0,2,7597.3,4/13/2004 0:00,Shipped,2,4,2004,Vintage Cars,170,S18_1749,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Large
+10344,45,100.0,1,7650.0,11/25/2004 0:00,Shipped,4,11,2004,Vintage Cars,170,S18_1749,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Large
+10122,43,72.38,6,3112.34,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,77,S18_1889,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium
+10405,61,73.92,4,4509.12,4/14/2005 0:00,Shipped,2,4,2005,Classic Cars,77,S18_1889,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Medium
+10122,31,100.0,1,4100.99,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,142,S18_1984,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium
+10136,36,100.0,1,5274.72,7/4/2003 0:00,Shipped,3,7,2003,Classic Cars,142,S18_1984,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Medium
+10356,27,64.69,2,1746.63,12/9/2004 0:00,Shipped,4,12,2004,Classic Cars,142,S18_1984,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Small
+10336,49,100.0,6,7460.74,11/20/2004 0:00,Shipped,4,11,2004,Classic Cars,163,S18_2238,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Large
+10425,28,100.0,3,5318.04,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,163,S18_2238,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10227,28,50.85,9,1423.8,3/2/2004 0:00,Shipped,1,3,2004,Vintage Cars,60,S18_2248,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10241,33,72.65,1,2397.45,4/13/2004 0:00,Shipped,2,4,2004,Vintage Cars,60,S18_2248,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Small
+10344,40,56.91,2,2276.4,11/25/2004 0:00,Shipped,4,11,2004,Vintage Cars,60,S18_2248,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10114,39,100.0,3,4164.42,4/1/2003 0:00,Shipped,2,4,2003,Trucks and Buses,122,S18_2319,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium
+10425,38,99.41,7,3777.58,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,122,S18_2319,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10227,46,100.0,7,7017.76,3/2/2004 0:00,Shipped,1,3,2004,Vintage Cars,127,S18_2325,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Large
+10304,24,100.0,17,2440.8,10/11/2004 0:00,Shipped,4,10,2004,Vintage Cars,127,S18_2325,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Small
+10344,30,100.0,3,3928.2,11/25/2004 0:00,Shipped,4,11,2004,Vintage Cars,127,S18_2325,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium
+10356,29,100.0,3,3630.22,12/9/2004 0:00,Shipped,4,12,2004,Vintage Cars,127,S18_2325,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10114,45,68.67,6,3090.15,4/1/2003 0:00,Shipped,2,4,2003,Trucks and Buses,60,S18_2432,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium
+10194,45,70.49,2,3172.05,11/25/2003 0:00,Shipped,4,11,2003,Trucks and Buses,60,S18_2432,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10425,19,49.22,10,935.18,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,60,S18_2432,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10275,35,90.39,9,3163.65,7/23/2004 0:00,Shipped,3,7,2004,Planes,84,S18_2581,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10398,34,76.88,15,2613.92,3/30/2005 0:00,Shipped,1,3,2005,Planes,84,S18_2581,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10134,30,61.78,6,1853.4,7/1/2003 0:00,Shipped,3,7,2003,Motorcycles,60,S18_2625,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Small
+10180,25,64.2,13,1605.0,11/11/2003 0:00,Shipped,4,11,2003,Motorcycles,60,S18_2625,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small
+10275,37,63.6,5,2353.2,7/23/2004 0:00,Shipped,3,7,2004,Motorcycles,60,S18_2625,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10298,32,48.46,2,1550.72,9/27/2004 0:00,Shipped,3,9,2004,Motorcycles,60,S18_2625,Atelier graphique,40.32.2555,"54, rue Royale",,Nantes,,44000,France,EMEA,Schmitt,Carine,Small
+10402,55,55.72,2,3064.6,4/7/2005 0:00,Shipped,2,4,2005,Motorcycles,60,S18_2625,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10227,29,100.0,4,5579.02,3/2/2004 0:00,Shipped,1,3,2004,Vintage Cars,168,S18_2795,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10255,24,100.0,1,3726.0,6/4/2004 0:00,Shipped,2,6,2004,Vintage Cars,168,S18_2795,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Medium
+10304,20,100.0,14,3577.6,10/11/2004 0:00,Shipped,4,10,2004,Vintage Cars,168,S18_2795,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Medium
+10356,30,100.0,1,4462.2,12/9/2004 0:00,Shipped,4,12,2004,Vintage Cars,168,S18_2795,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10123,46,100.0,3,5161.2,5/20/2003 0:00,Shipped,2,5,2003,Classic Cars,132,S18_2870,Atelier graphique,40.32.2555,"54, rue Royale",,Nantes,,44000,France,EMEA,Schmitt,Carine,Medium
+10137,37,100.0,3,4346.76,7/10/2003 0:00,Shipped,3,7,2003,Classic Cars,132,S18_2870,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10241,44,100.0,12,6853.44,4/13/2004 0:00,Shipped,2,4,2004,Classic Cars,132,S18_2870,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Medium
+10343,25,52.32,3,1308.0,11/24/2004 0:00,Shipped,4,11,2004,Classic Cars,132,S18_2870,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10304,46,100.0,7,4613.8,10/11/2004 0:00,Shipped,4,10,2004,Vintage Cars,101,S18_2949,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Medium
+10304,24,64.96,9,1559.04,10/11/2004 0:00,Shipped,4,10,2004,Vintage Cars,62,S18_2957,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Small
+10178,41,81.72,10,3350.52,11/8/2003 0:00,Shipped,4,11,2003,Ships,86,S18_3029,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Medium
+10398,28,72.26,18,2023.28,3/30/2005 0:00,Shipped,1,3,2005,Ships,86,S18_3029,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10304,26,85.87,8,2232.62,10/11/2004 0:00,Shipped,4,10,2004,Vintage Cars,104,S18_3136,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Small
+10208,24,100.0,9,2622.48,1/2/2004 0:00,Shipped,1,1,2004,Vintage Cars,136,S18_3140,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10336,48,100.0,12,5778.24,11/20/2004 0:00,Shipped,4,11,2004,Vintage Cars,136,S18_3140,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium
+10114,48,100.0,4,8209.44,4/1/2003 0:00,Shipped,2,4,2003,Classic Cars,169,S18_3232,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Large
+10122,25,100.0,3,3598.5,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,169,S18_3232,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium
+10136,41,100.0,3,8331.61,7/4/2003 0:00,Shipped,3,7,2003,Classic Cars,169,S18_3232,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Large
+10405,55,100.0,1,8289.05,4/14/2005 0:00,Shipped,2,4,2005,Classic Cars,169,S18_3232,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Large
+10425,28,100.0,8,3793.16,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,169,S18_3232,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10208,48,100.0,11,5614.56,1/2/2004 0:00,Shipped,1,1,2004,Trains,100,S18_3259,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10336,21,100.0,7,2230.41,11/20/2004 0:00,Shipped,4,11,2004,Trains,100,S18_3259,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Small
+10122,21,73.17,13,1536.57,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,80,S18_3278,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10211,35,78.0,5,2730.0,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,80,S18_3278,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small
+10252,20,76.39,2,1527.8,5/26/2004 0:00,Shipped,2,5,2004,Classic Cars,80,S18_3278,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small
+10227,33,100.0,1,3666.96,3/2/2004 0:00,Shipped,1,3,2004,Vintage Cars,99,S18_3320,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10304,38,100.0,11,3958.46,10/11/2004 0:00,Shipped,4,10,2004,Vintage Cars,99,S18_3320,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Medium
+10122,21,100.0,12,2469.39,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,146,S18_3482,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10211,28,100.0,4,3745.28,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,146,S18_3482,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10252,41,100.0,1,6749.83,5/26/2004 0:00,Shipped,2,5,2004,Classic Cars,146,S18_3482,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10123,34,100.0,4,5331.88,5/20/2003 0:00,Shipped,2,5,2003,Classic Cars,141,S18_3685,Atelier graphique,40.32.2555,"54, rue Royale",,Nantes,,44000,France,EMEA,Schmitt,Carine,Medium
+10137,31,100.0,4,5124.3,7/10/2003 0:00,Shipped,3,7,2003,Classic Cars,141,S18_3685,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10343,44,84.88,2,3734.72,11/24/2004 0:00,Shipped,4,11,2004,Classic Cars,141,S18_3685,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10122,35,49.74,16,1740.9,5/8/2003 0:00,Shipped,2,5,2003,Motorcycles,62,S18_3782,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10180,21,50.36,3,1057.56,11/11/2003 0:00,Shipped,4,11,2003,Motorcycles,62,S18_3782,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small
+10211,46,54.09,8,2488.14,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,62,S18_3782,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small
+10224,38,58.44,1,2220.72,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,62,S18_3782,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small
+10252,31,52.84,5,1638.04,5/26/2004 0:00,Shipped,2,5,2004,Motorcycles,62,S18_3782,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small
+10286,38,57.2,1,2173.6,8/28/2004 0:00,Shipped,3,8,2004,Motorcycles,62,S18_3782,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Small
+10178,48,100.0,9,5386.56,11/8/2003 0:00,Shipped,4,11,2003,Vintage Cars,105,S18_3856,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Medium
+10398,45,100.0,17,4811.85,3/30/2005 0:00,Shipped,1,3,2005,Vintage Cars,105,S18_3856,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10227,34,100.0,11,3566.94,3/2/2004 0:00,Shipped,1,3,2004,Vintage Cars,92,S18_4409,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10241,42,90.19,3,3787.98,4/13/2004 0:00,Shipped,2,4,2004,Vintage Cars,92,S18_4409,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Medium
+10344,21,100.0,4,2203.11,11/25/2004 0:00,Shipped,4,11,2004,Vintage Cars,92,S18_4409,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10208,45,87.77,8,3949.65,1/2/2004 0:00,Shipped,1,1,2004,Vintage Cars,87,S18_4522,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10315,36,100.0,7,3602.16,10/29/2004 0:00,Shipped,4,10,2004,Vintage Cars,87,S18_4522,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10114,41,100.0,9,4815.45,4/1/2003 0:00,Shipped,2,4,2003,Trucks and Buses,121,S18_4600,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium
+10194,32,100.0,5,4262.08,11/25/2003 0:00,Shipped,4,11,2003,Trucks and Buses,121,S18_4600,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10425,38,100.0,13,4325.16,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,121,S18_4600,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10194,41,44.78,9,1835.98,11/25/2003 0:00,Shipped,4,11,2003,Vintage Cars,50,S18_4668,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10304,34,49.3,4,1676.2,10/11/2004 0:00,Shipped,4,10,2004,Vintage Cars,50,S18_4668,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Small
+10122,28,100.0,15,3583.16,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,148,S18_4721,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium
+10180,44,100.0,2,5565.12,11/11/2003 0:00,Shipped,4,11,2003,Classic Cars,148,S18_4721,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Medium
+10211,41,100.0,7,5673.58,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,148,S18_4721,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10252,26,100.0,4,3559.4,5/26/2004 0:00,Shipped,2,5,2004,Classic Cars,148,S18_4721,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10227,37,57.73,12,2136.01,3/2/2004 0:00,Shipped,1,3,2004,Classic Cars,71,S18_4933,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10241,30,66.99,4,2009.7,4/13/2004 0:00,Shipped,2,4,2004,Classic Cars,71,S18_4933,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Small
+10344,26,63.43,5,1649.18,11/25/2004 0:00,Shipped,4,11,2004,Classic Cars,71,S18_4933,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10241,22,76.43,8,1681.46,4/13/2004 0:00,Shipped,2,4,2004,Classic Cars,73,S24_1046,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Small
+10344,29,59.53,7,1726.37,11/25/2004 0:00,Shipped,4,11,2004,Classic Cars,73,S24_1046,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10336,45,100.0,4,5972.4,11/20/2004 0:00,Shipped,4,11,2004,Classic Cars,57,S24_1444,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium
+10425,55,46.82,1,2575.1,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,57,S24_1444,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10134,35,93.54,3,3273.9,7/1/2003 0:00,Shipped,3,7,2003,Motorcycles,112,S24_1578,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10180,48,100.0,10,5355.36,11/11/2003 0:00,Shipped,4,11,2003,Motorcycles,112,S24_1578,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Medium
+10211,25,90.16,15,2254.0,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,112,S24_1578,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small
+10275,21,100.0,2,2153.76,7/23/2004 0:00,Shipped,3,7,2004,Motorcycles,112,S24_1578,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10123,50,59.87,1,2993.5,5/20/2003 0:00,Shipped,2,5,2003,Classic Cars,50,S24_1628,Atelier graphique,40.32.2555,"54, rue Royale",,Nantes,,44000,France,EMEA,Schmitt,Carine,Small
+10137,26,49.81,1,1295.06,7/10/2003 0:00,Shipped,3,7,2003,Classic Cars,50,S24_1628,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10241,21,40.25,10,845.25,4/13/2004 0:00,Shipped,2,4,2004,Classic Cars,50,S24_1628,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Small
+10343,27,36.21,6,977.67,11/24/2004 0:00,Shipped,4,11,2004,Classic Cars,50,S24_1628,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10275,25,95.2,11,2380.0,7/23/2004 0:00,Shipped,3,7,2004,Planes,109,S24_1785,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10398,43,100.0,16,5552.16,3/30/2005 0:00,Shipped,1,3,2005,Planes,109,S24_1785,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10227,42,29.21,6,1226.82,3/2/2004 0:00,Shipped,1,3,2004,Vintage Cars,33,S24_1937,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10304,23,30.2,16,694.6,10/11/2004 0:00,Shipped,4,10,2004,Vintage Cars,33,S24_1937,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Small
+10344,20,35.18,6,703.6,11/25/2004 0:00,Shipped,4,11,2004,Vintage Cars,33,S24_1937,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10356,48,100.0,5,9720.0,12/9/2004 0:00,Shipped,4,12,2004,Vintage Cars,33,S24_1937,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Large
+10134,43,83.03,7,3570.29,7/1/2003 0:00,Shipped,3,7,2003,Motorcycles,76,S24_2000,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10180,28,68.55,14,1919.4,11/11/2003 0:00,Shipped,4,11,2003,Motorcycles,76,S24_2000,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small
+10275,30,79.98,6,2399.4,7/23/2004 0:00,Shipped,3,7,2004,Motorcycles,76,S24_2000,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10375,23,100.0,9,2443.29,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,76,S24_2000,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10402,59,87.6,3,5168.4,4/7/2005 0:00,Shipped,2,4,2005,Motorcycles,76,S24_2000,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10208,35,100.0,7,4301.15,1/2/2004 0:00,Shipped,1,1,2004,Ships,122,S24_2011,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10315,35,100.0,6,4215.05,10/29/2004 0:00,Shipped,4,10,2004,Ships,122,S24_2011,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10227,24,48.38,5,1161.12,3/2/2004 0:00,Shipped,1,3,2004,Vintage Cars,44,S24_2022,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10255,37,45.7,2,1690.9,6/4/2004 0:00,Shipped,2,6,2004,Vintage Cars,44,S24_2022,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Small
+10304,44,39.42,15,1734.48,10/11/2004 0:00,Shipped,4,10,2004,Vintage Cars,44,S24_2022,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Small
+10345,43,53.76,1,2311.68,11/25/2004 0:00,Shipped,4,11,2004,Vintage Cars,44,S24_2022,Atelier graphique,40.32.2555,"54, rue Royale",,Nantes,,44000,France,EMEA,Schmitt,Carine,Small
+10356,26,31.86,7,828.36,12/9/2004 0:00,Shipped,4,12,2004,Vintage Cars,44,S24_2022,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Small
+10114,21,100.0,5,2925.09,4/1/2003 0:00,Shipped,2,4,2003,Trucks and Buses,127,S24_2300,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Small
+10194,49,100.0,1,5760.93,11/25/2003 0:00,Shipped,4,11,2003,Trucks and Buses,127,S24_2300,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10425,49,100.0,9,5510.54,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,127,S24_2300,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10121,32,76.88,2,2460.16,5/7/2003 0:00,Shipped,2,5,2003,Motorcycles,69,S24_2360,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10180,35,72.03,6,2521.05,11/11/2003 0:00,Shipped,4,11,2003,Motorcycles,69,S24_2360,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small
+10211,21,63.72,11,1338.12,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,69,S24_2360,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small
+10224,37,80.34,4,2972.58,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,69,S24_2360,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small
+10252,47,65.8,8,3092.6,5/26/2004 0:00,Shipped,2,5,2004,Motorcycles,69,S24_2360,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10375,20,100.0,14,2046.0,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,69,S24_2360,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10227,47,88.14,14,4142.58,3/2/2004 0:00,Shipped,1,3,2004,Classic Cars,90,S24_2766,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10241,47,94.5,6,4441.5,4/13/2004 0:00,Shipped,2,4,2004,Classic Cars,90,S24_2766,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Medium
+10114,24,30.06,1,721.44,4/1/2003 0:00,Shipped,2,4,2003,Classic Cars,35,S24_2840,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Small
+10425,31,33.24,5,1030.44,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,35,S24_2840,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10178,34,80.84,5,2748.56,11/8/2003 0:00,Shipped,4,11,2003,Planes,68,S24_2841,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Small
+10398,28,57.55,3,1611.4,3/30/2005 0:00,Shipped,1,3,2005,Planes,68,S24_2841,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10227,33,100.0,13,4340.49,3/2/2004 0:00,Shipped,1,3,2004,Classic Cars,117,S24_2887,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10241,28,98.65,5,2762.2,4/13/2004 0:00,Shipped,2,4,2004,Classic Cars,117,S24_2887,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Small
+10122,39,30.96,4,1207.44,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,37,S24_2972,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10405,47,44.56,2,2094.32,4/14/2005 0:00,Shipped,2,4,2005,Classic Cars,37,S24_2972,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Small
+10208,20,89.4,2,1788.0,1/2/2004 0:00,Shipped,1,1,2004,Vintage Cars,88,S24_3151,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10315,24,86.74,1,2081.76,10/29/2004 0:00,Shipped,4,10,2004,Vintage Cars,88,S24_3151,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10227,40,79.62,15,3184.8,3/2/2004 0:00,Shipped,1,3,2004,Classic Cars,85,S24_3191,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10241,26,81.33,7,2114.58,4/13/2004 0:00,Shipped,2,4,2004,Classic Cars,85,S24_3191,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Small
+10122,34,50.21,9,1707.14,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,61,S24_3371,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10211,48,48.98,1,2351.04,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,61,S24_3371,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small
+10178,27,73.64,6,1988.28,11/8/2003 0:00,Shipped,4,11,2003,Vintage Cars,65,S24_3420,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Small
+10398,34,71.67,13,2436.78,3/30/2005 0:00,Shipped,1,3,2005,Vintage Cars,65,S24_3420,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10241,27,86.73,9,2341.71,4/13/2004 0:00,Shipped,2,4,2004,Classic Cars,107,S24_3432,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Small
+10178,21,72.12,11,1514.52,11/8/2003 0:00,Shipped,4,11,2003,Vintage Cars,83,S24_3816,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Small
+10122,43,100.0,5,5494.97,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,140,S24_3856,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium
+10405,76,100.0,3,11739.7,4/14/2005 0:00,Shipped,2,4,2005,Classic Cars,140,S24_3856,Mini Caravy,88.60.1555,"24, place Kluber",,Strasbourg,,67000,France,EMEA,Citeaux,Frederique,Large
+10178,30,72.33,3,2169.9,11/8/2003 0:00,Shipped,4,11,2003,Planes,68,S24_3949,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Small
+10275,41,81.89,18,3357.49,7/23/2004 0:00,Shipped,3,7,2004,Planes,68,S24_3949,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10398,41,68.24,2,2797.84,3/30/2005 0:00,Shipped,1,3,2005,Planes,68,S24_3949,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10227,27,43.9,8,1185.3,3/2/2004 0:00,Shipped,1,3,2004,Vintage Cars,41,S24_3969,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10336,31,100.0,5,4618.69,11/20/2004 0:00,Shipped,4,11,2004,Classic Cars,118,S24_4048,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium
+10359,22,100.0,7,2603.04,12/15/2004 0:00,Shipped,4,12,2004,Classic Cars,118,S24_4048,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10304,33,100.0,10,3342.57,10/11/2004 0:00,Shipped,4,10,2004,Vintage Cars,97,S24_4258,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Medium
+10275,27,62.31,10,1682.37,7/23/2004 0:00,Shipped,3,7,2004,Planes,72,S24_4278,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10375,43,100.0,2,10039.6,2/3/2005 0:00,Shipped,1,2,2005,Planes,72,S24_4278,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Large
+10398,45,78.25,14,3521.25,3/30/2005 0:00,Shipped,1,3,2005,Planes,72,S24_4278,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10122,29,71.14,14,2063.06,5/8/2003 0:00,Shipped,2,5,2003,Classic Cars,80,S24_4620,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10180,28,71.14,1,1991.92,11/11/2003 0:00,Shipped,4,11,2003,Classic Cars,80,S24_4620,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small
+10211,22,92.16,6,2027.52,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,80,S24_4620,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small
+10252,38,87.31,3,3317.78,5/26/2004 0:00,Shipped,2,5,2004,Classic Cars,80,S24_4620,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10343,30,100.0,1,3098.7,11/24/2004 0:00,Shipped,4,11,2004,Classic Cars,80,S24_4620,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10114,32,100.0,7,3667.52,4/1/2003 0:00,Shipped,2,4,2003,Trucks and Buses,96,S32_1268,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium
+10194,37,97.27,3,3598.99,11/25/2003 0:00,Shipped,4,11,2003,Trucks and Buses,96,S32_1268,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10425,41,86.68,11,3553.88,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,96,S32_1268,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10275,23,81.91,7,1883.93,7/23/2004 0:00,Shipped,3,7,2004,Motorcycles,99,S32_1374,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10375,37,100.0,3,6353.27,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,99,S32_1374,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10122,31,44.66,17,1384.46,5/8/2003 0:00,Shipped,2,5,2003,Motorcycles,40,S32_2206,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10180,34,45.46,4,1545.64,11/11/2003 0:00,Shipped,4,11,2003,Motorcycles,40,S32_2206,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small
+10211,41,42.24,9,1731.84,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,40,S32_2206,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small
+10224,43,39.43,2,1695.49,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,40,S32_2206,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small
+10252,36,48.28,6,1738.08,5/26/2004 0:00,Shipped,2,5,2004,Motorcycles,40,S32_2206,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small
+10343,29,100.0,5,3713.16,11/24/2004 0:00,Shipped,4,11,2004,Motorcycles,40,S32_2206,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10364,48,48.28,1,2317.44,1/6/2005 0:00,Shipped,1,1,2005,Motorcycles,40,S32_2206,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+10114,28,55.73,2,1560.44,4/1/2003 0:00,Shipped,2,4,2003,Trucks and Buses,54,S32_2509,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Small
+10359,36,100.0,3,6358.68,12/15/2004 0:00,Shipped,4,12,2004,Trucks and Buses,54,S32_2509,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10425,11,43.83,6,482.13,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,54,S32_2509,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10336,31,84.71,9,2626.01,11/20/2004 0:00,Shipped,4,11,2004,Trains,62,S32_3207,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Small
+10359,22,100.0,1,4301.22,12/15/2004 0:00,Shipped,4,12,2004,Trains,62,S32_3207,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10194,39,54.94,7,2142.66,11/25/2003 0:00,Shipped,4,11,2003,Trucks and Buses,64,S32_3522,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10304,36,73.04,2,2629.44,10/11/2004 0:00,Shipped,4,10,2004,Trucks and Buses,64,S32_3522,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Small
+10275,28,63.97,12,1791.16,7/23/2004 0:00,Shipped,3,7,2004,Vintage Cars,68,S32_4289,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10375,44,82.26,4,3619.44,2/3/2005 0:00,Shipped,1,2,2005,Vintage Cars,68,S32_4289,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10398,22,67.41,4,1483.02,3/30/2005 0:00,Shipped,1,3,2005,Vintage Cars,68,S32_4289,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10121,25,86.74,3,2168.5,5/7/2003 0:00,Shipped,2,5,2003,Motorcycles,102,S32_4485,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10180,22,100.0,7,2514.6,11/11/2003 0:00,Shipped,4,11,2003,Motorcycles,102,S32_4485,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small
+10211,37,100.0,12,4040.03,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,102,S32_4485,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10224,30,100.0,5,3336.9,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,102,S32_4485,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Medium
+10252,25,100.0,9,2832.0,5/26/2004 0:00,Shipped,2,5,2004,Motorcycles,102,S32_4485,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small
+10375,41,100.0,15,4701.88,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,102,S32_4485,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10275,38,45.39,13,1724.82,7/23/2004 0:00,Shipped,3,7,2004,Vintage Cars,43,S50_1341,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10375,49,65.8,5,3224.2,2/3/2005 0:00,Shipped,1,2,2005,Vintage Cars,43,S50_1341,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10398,49,36.66,5,1796.34,3/30/2005 0:00,Shipped,1,3,2005,Vintage Cars,43,S50_1341,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10336,23,100.0,8,3141.57,11/20/2004 0:00,Shipped,4,11,2004,Trucks and Buses,115,S50_1392,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium
+10359,46,100.0,2,4896.7,12/15/2004 0:00,Shipped,4,12,2004,Trucks and Buses,115,S50_1392,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10395,46,100.0,4,5692.96,3/17/2005 0:00,Shipped,1,3,2005,Trucks and Buses,115,S50_1392,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10425,18,100.0,2,1895.94,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,115,S50_1392,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10208,30,65.61,15,1968.3,1/2/2004 0:00,Shipped,1,1,2004,Trains,58,S50_1514,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10359,25,64.93,4,1623.25,12/15/2004 0:00,Shipped,4,12,2004,Trains,58,S50_1514,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10395,45,100.0,3,8977.05,3/17/2005 0:00,Shipped,1,3,2005,Trains,58,S50_1514,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Large
+10121,44,74.85,1,3293.4,5/7/2003 0:00,Shipped,2,5,2003,Motorcycles,81,S50_4713,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10180,21,93.56,5,1964.76,11/11/2003 0:00,Shipped,4,11,2003,Motorcycles,81,S50_4713,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small
+10211,40,80.55,10,3222.0,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,81,S50_4713,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10224,50,77.29,3,3864.5,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,81,S50_4713,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Medium
+10252,48,72.41,7,3475.68,5/26/2004 0:00,Shipped,2,5,2004,Motorcycles,81,S50_4713,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10356,26,100.0,4,3937.7,12/9/2004 0:00,Shipped,4,12,2004,Motorcycles,81,S50_4713,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10375,49,100.0,8,5406.66,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,81,S50_4713,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10208,38,74.67,3,2837.46,1/2/2004 0:00,Shipped,1,1,2004,Ships,66,S700_1138,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10315,41,62.0,2,2542.0,10/29/2004 0:00,Shipped,4,10,2004,Ships,66,S700_1138,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10275,32,89.51,14,2864.32,7/23/2004 0:00,Shipped,3,7,2004,Planes,91,S700_1691,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10375,37,81.87,6,3029.19,2/3/2005 0:00,Shipped,1,2,2005,Planes,91,S700_1691,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10398,47,87.69,6,4121.43,3/30/2005 0:00,Shipped,1,3,2005,Planes,91,S700_1691,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10208,40,80.55,10,3222.0,1/2/2004 0:00,Shipped,1,1,2004,Ships,86,S700_1938,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10397,32,80.55,5,2577.6,3/28/2005 0:00,Shipped,1,3,2005,Ships,86,S700_1938,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Small
+10178,34,96.86,8,3293.24,11/8/2003 0:00,Shipped,4,11,2003,Ships,90,S700_2047,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Medium
+10398,36,100.0,7,3910.32,3/30/2005 0:00,Shipped,1,3,2005,Ships,90,S700_2047,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10178,22,87.75,1,1930.5,11/8/2003 0:00,Shipped,4,11,2003,Planes,99,S700_2466,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Small
+10275,39,100.0,16,4472.52,7/23/2004 0:00,Shipped,3,7,2004,Planes,99,S700_2466,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10375,33,100.0,1,3856.71,2/3/2005 0:00,Shipped,1,2,2005,Planes,99,S700_2466,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10398,22,86.76,8,1908.72,3/30/2005 0:00,Shipped,1,3,2005,Planes,99,S700_2466,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10208,46,74.45,1,3424.7,1/2/2004 0:00,Shipped,1,1,2004,Ships,72,S700_2610,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10397,22,66.5,4,1463.0,3/28/2005 0:00,Shipped,1,3,2005,Ships,72,S700_2610,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Small
+10114,42,100.0,10,4758.18,4/1/2003 0:00,Shipped,2,4,2003,Classic Cars,101,S700_2824,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium
+10194,26,89.01,6,2314.26,11/25/2003 0:00,Shipped,4,11,2003,Classic Cars,101,S700_2824,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10304,40,100.0,1,4208.0,10/11/2004 0:00,Shipped,4,10,2004,Classic Cars,101,S700_2824,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Medium
+10336,46,100.0,2,9558.8,11/20/2004 0:00,Shipped,4,11,2004,Classic Cars,101,S700_2824,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Large
+10275,48,100.0,8,6378.72,7/23/2004 0:00,Shipped,3,7,2004,Planes,118,S700_2834,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10375,25,66.73,10,1668.25,2/3/2005 0:00,Shipped,1,2,2005,Planes,118,S700_2834,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10398,23,100.0,9,2810.83,3/30/2005 0:00,Shipped,1,3,2005,Planes,118,S700_2834,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10275,43,73.6,15,3164.8,7/23/2004 0:00,Shipped,3,7,2004,Planes,80,S700_3167,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10375,44,100.0,11,5208.72,2/3/2005 0:00,Shipped,1,2,2005,Planes,80,S700_3167,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10398,29,65.6,10,1902.4,3/30/2005 0:00,Shipped,1,3,2005,Planes,80,S700_3167,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10208,37,100.0,4,4447.4,1/2/2004 0:00,Shipped,1,1,2004,Ships,100,S700_3505,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium
+10315,31,86.15,3,2670.65,10/29/2004 0:00,Shipped,4,10,2004,Ships,100,S700_3505,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10397,48,100.0,3,5192.64,3/28/2005 0:00,Shipped,1,3,2005,Ships,100,S700_3505,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Medium
+10208,33,85.41,5,2818.53,1/2/2004 0:00,Shipped,1,1,2004,Ships,99,S700_3962,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10315,37,91.37,4,3380.69,10/29/2004 0:00,Shipped,4,10,2004,Ships,99,S700_3962,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10397,36,100.0,2,3789.72,3/28/2005 0:00,Shipped,1,3,2005,Ships,99,S700_3962,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Medium
+10178,45,76.25,2,3431.25,11/8/2003 0:00,Shipped,4,11,2003,Planes,74,S700_4002,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Medium
+10275,31,72.55,17,2249.05,7/23/2004 0:00,Shipped,3,7,2004,Planes,74,S700_4002,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10398,36,87.36,12,3144.96,3/30/2005 0:00,Shipped,1,3,2005,Planes,74,S700_4002,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+10178,45,51.15,7,2301.75,11/8/2003 0:00,Shipped,4,11,2003,Planes,49,S72_1253,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Small
+10398,34,40.22,1,1367.48,3/30/2005 0:00,Shipped,1,3,2005,Planes,49,S72_1253,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10208,42,63.88,6,2682.96,1/2/2004 0:00,Shipped,1,1,2004,Ships,54,S72_3212,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small
+10315,40,55.69,5,2227.6,10/29/2004 0:00,Shipped,4,10,2004,Ships,54,S72_3212,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10397,34,62.24,1,2116.16,3/28/2005 0:00,Shipped,1,3,2005,Ships,54,S72_3212,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Small
